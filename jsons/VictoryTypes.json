@@ -1,0 +1,9 @@
+[
+      {
+        "name": "Annihilation",
+        "victoryScreenHeader": "Build Project Sundial and annihilate the world.",
+        "milestones": ["Build [Project Sundial]"],
+        "victoryString": "You have won the nuclear arms race, years of fierce competition finally won. Your adversaries irreversably shattered, doomed to be forrever lost under the wasteland. Yet at what cost?",
+        "defeatString": "You have lost, years of competition wasted as your enemies destroyed the planet you and they reside. The world has been destroyed, and there is nothing left to do on this barren wasteland."
+    }
+]
