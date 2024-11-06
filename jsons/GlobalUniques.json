@@ -1,0 +1,11 @@
+{
+      "name": "Annihilation",
+    "uniques": [
+      "[-500]% [Food] <for [1000] turns> <for [All] Civilizations> <if [Project Sundial] is constructed by anybody> <when [Annihilation] Victory is enabled>",
+      "[-500]% [Production] <for [1000] turns> <for [All] Civilizations> <if [Project Sundial] is constructed by anybody> <when [Annihilation] Victory is enabled>",
+      "[-500]% [Culture] <for [1000] turns> <for [All] Civilizations> <if [Project Sundial] is constructed by anybody> <when [Annihilation] Victory is enabled>",
+      "[-500]% [Science] <for [1000] turns> <for [All] Civilizations> <if [Project Sundial] is constructed by anybody> <when [Annihilation] Victory is enabled>",
+      "[-500]% [Gold] <for [1000] turns> <for [All] Civilizations> <if [Project Sundial] is constructed by anybody> <when [Annihilation] Victory is enabled>",
+      "[-500]% [Faith] <for [1000] turns> <for [All] Civilizations> <if [Project Sundial] is constructed by anybody> <when [Annihilation] Victory is enabled>",
+      "[-500]% [Happiness] <for [1000] turns> <for [All] Civilizations> <if [Project Sundial] is constructed by anybody> <when [Annihilation] Victory is enabled>"]
+}
