@@ -7,8 +7,7 @@
         "rangedStrength": 1200,
         "range": 2,
         "cost": 1,
-        "uniques": ["Nuclear weapon of Strength [3]", "Unbuildable","Unsellable","Cannot be purchased",
-            "Blast radius [1000]"],
+        "uniques": ["Nuclear weapon of Strength [4]", "Unbuildable","Unsellable","Cannot be purchased","Blast radius [120]"],
         "attackSound": "nuke"
     }, 
 ]
