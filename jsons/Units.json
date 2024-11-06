@@ -3,12 +3,12 @@
         "name": "GNOMON",
         "unitType": "Missile",
         "movement": 1,
-        "strength": 3600,
-        "rangedStrength": 3600,
+        "strength": 1200,
+        "rangedStrength": 1200,
         "range": 2,
         "cost": 1,
         "uniques": ["Nuclear weapon of Strength [3]", "Unbuildable","Unsellable","Cannot be purchased",
-            "Blast radius [1000]", "Consumes [4] [Uranium]"],
+            "Blast radius [1000]"],
         "attackSound": "nuke"
     }, 
 ]
