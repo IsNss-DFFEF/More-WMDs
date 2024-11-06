@@ -10,4 +10,16 @@
         "uniques": ["Nuclear weapon of Strength [4]", "Unbuildable","Unsellable","Cannot be purchased","Blast radius [120]"],
         "attackSound": "nuke"
     }, 
+    {
+        "name": "Massive Ordnance Air Blast",
+        "unitType": "Missile",
+        "movement": 1,
+        "strength": 600,
+        "rangedStrength": 600,
+        "range": 12,
+        "cost": 1000,
+        "requiredTech": "Advanced Ballistics",
+        "uniques": ["Cannot be hurried","Unsellable","Cannot be purchased","Blast radius [1]","Consumes [1] [Aluminum]"],
+        "attackSound": "nuke"
+    }, 
 ]
