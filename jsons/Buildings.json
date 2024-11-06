@@ -1,1 +1,9 @@
-
+[
+  {
+		"name": "Project Sundial",
+    "isWonder":true
+		"cost": 24000,
+		"requiredTech": "Nuclear Fusion",
+		"uniques": ["Cannot be hurried","Cannot be purchased","Consumes [6] [Uranium]","Free [GNOMON] appears"]
+	},
+]
