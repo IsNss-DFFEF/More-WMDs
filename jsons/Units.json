@@ -22,4 +22,17 @@
         "uniques": ["Cannot be hurried","Unsellable","Cannot be purchased","Blast radius [1]","Consumes [1] [Aluminum]"],
         "attackSound": "nuke"
     }, 
+  	{
+		"name": "Landkreuzer P. 1000 Ratte",
+		"unitType": "Armored",
+		"movement": 3,
+		"strength": 400,
+		"cost": 3000,
+		"requiredTech": "Robotics",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit", "Consumes [4] Oil", "Consumes [2] Aluminum",
+      "[-75]% Strength <vs [Fighter] units>",
+      "[-75]% Strength <vs [Bomber] units>",
+      "[-75]% Strength <vs [Missile] units>"],
+		"attackSound": "tankshot"
+	  },
 ]
