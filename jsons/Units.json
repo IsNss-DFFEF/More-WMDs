@@ -27,7 +27,6 @@
 		"unitType": "Armored",
 		"movement": 3,
 		"strength": 400,
-		"rangedStrength": 100,
 		"range": 6,
 		"cost": 3000,
 		"requiredTech": "Robotics",
