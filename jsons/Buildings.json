@@ -5,5 +5,10 @@
 		"cost": 24000,
 		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Cannot be hurried","Cannot be purchased","Free [GNOMON] appears"]
+	},
+	{
+		"name": "Annihilation Victory",
+		"cost": 1,
+		"uniques": ["Cannot be purchased","Unsellable","Unbuildable"]
 	}
 ]
