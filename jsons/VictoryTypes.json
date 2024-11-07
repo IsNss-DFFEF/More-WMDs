@@ -2,8 +2,8 @@
       {
         "name": "Annihilation",
         "victoryScreenHeader": "Build Project Sundial and annihilate the world.",
-        "milestones": ["Build [Project Sundial]"],
-        "victoryString": "You have won the nuclear arms race, the fate of the world is now in your hands. Your adversaries stricken with fear, doomed to be buried under meters of fallout. You have won, yet at what cost?",
-        "defeatString": "You have lost, your enemies have built a world ending weapon, a bomb so powerful it doesn't even need to reach its targets to annihilate them. The fate of the world is bleak, it's complete annihilation assured. There is nothing else to do."
+        "milestones": ["Build [Project Sundial]","Build [Annihilation Victory]"],
+        "victoryString": "You have won the final war. Your enemies eternally burried under miles of rubble and fallout, the land they once resided in forever contaminated, the sky they once looked to being blocked by numerous soot-filled clouds. You have won, yet at what cost?",
+        "defeatString": "You have lost, your enemies have built a world ending weapon. Your nation is forever doomed to be buried under miles of radioactive soot and soil, your land filled with waste, and the sky now blocking out the sun. An eternal nuclear winter sets in, there is nothing left to do in this world."
       }
 ]
