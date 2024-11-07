@@ -4,12 +4,12 @@
 		"isWonder": true
 		"cost": 24000,
 		"requiredTech": "Nuclear Fusion",
-		"uniques": ["Cannot be hurried","Cannot be purchased","Free [GNOMON] appears","Provides [1] [Annihilation]"]
+		"uniques": ["Cannot be hurried","Cannot be purchased","Free [GNOMON] appears","Provides [1] [Annihilation]","Only available <in [Capital] cities>"]
 	},
 	{
 		"name": "Annihilation Victory",
-		"cost": -1,
+		"cost": 1,
 		"requiredResource": "Annihilation",
-		"uniques": ["Cannot be purchased","Unsellable","Unbuildable"]
+		"uniques": ["Cannot be purchased","Unsellable","Only available <if [Project Sundial] is constructed>"]
 	}
 ]
