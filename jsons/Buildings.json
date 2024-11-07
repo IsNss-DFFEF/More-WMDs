@@ -4,7 +4,7 @@
 		"isWonder": true
 		"cost": 24000,
 		"requiredTech": "Nuclear Fusion",
-		"uniques": ["Cannot be hurried","Cannot be purchased","Free [GNOMON] appears"]
+		"uniques": ["Cannot be hurried","Cannot be purchased","Free [GNOMON] appears","Provides [1] [Annihilation]"]
 	},
 	{
 		"name": "Annihilation Victory",
