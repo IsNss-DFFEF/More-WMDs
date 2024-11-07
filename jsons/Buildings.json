@@ -4,7 +4,7 @@
 		"isWonder": true
 		"cost": 24000,
 		"requiredTech": "Nuclear Fusion",
-		"uniques": ["Cannot be hurried","Cannot be purchased","Free [GNOMON] appears","Provides [1] [Annihilation]","Only available <in [Capital] cities>"]
+		"uniques": ["Cannot be hurried","Cannot be purchased","Free [GNOMON] appears","Provides [1] [Annihilation]","Only available <in [Capital] cities>","Consumes [1] Annihilation <after adopting [Fascism]>"]
 	},
 	{
 		"name": "Annihilation Victory",
