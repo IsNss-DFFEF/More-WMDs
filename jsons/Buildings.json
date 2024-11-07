@@ -8,7 +8,8 @@
 	},
 	{
 		"name": "Annihilation Victory",
-		"cost": 1,
+		"cost": -1,
+		"requiredResource": "Annihilation",
 		"uniques": ["Cannot be purchased","Unsellable","Unbuildable"]
 	}
 ]
