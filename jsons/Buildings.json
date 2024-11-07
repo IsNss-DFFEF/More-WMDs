@@ -10,6 +10,6 @@
 		"name": "Annihilation Victory",
 		"cost": 1,
 		"requiredResource": "Annihilation",
-		"uniques": ["Cannot be purchased","Unsellable","Only available <if [Project Sundial] is constructed>"]
+		"uniques": ["Cannot be purchased","Unsellable","Only available <if [Project Sundial] is constructed>","Only available <when [Annihilation] Victory is enabled>"]
 	}
 ]
