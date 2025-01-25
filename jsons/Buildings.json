@@ -4,12 +4,30 @@
 		"isWonder": true
 		"cost": 24000,
 		"requiredTech": "Nuclear Fusion",
-		"uniques": ["Cannot be hurried","Cannot be purchased","Free [GNOMON] appears","Provides [1] [Annihilation]","Only available <in [Capital] cities>","Consumes [1] Annihilation <after adopting [Fascism]>"]
+		"uniques": ["Cannot be hurried",
+			"Cannot be purchased",
+			"Free [GNOMON] appears",
+			"Provides [1] [Annihilation]",
+			"Only available <in [Capital] cities>",
+			"Consumes [1] Annihilation <after adopting [Fascism]>"]
+	},
+	{
+		"name": "The Swarm",
+		"isWonder": true
+		"cost": 24000,
+		"requiredTech": "Nanotechnology",
+		"uniques": ["Cannot be hurried",
+			"Cannot be purchased",
+			"Free [The Swarm] appears",
+			"Only available <in [Capital] cities>",]
 	},
 	{
 		"name": "Annihilation Victory",
 		"cost": 1,
 		"requiredResource": "Annihilation",
-		"uniques": ["Cannot be purchased","Unsellable","Only available <if [Project Sundial] is constructed>","Only available <when [Annihilation] Victory is enabled>"]
+		"uniques": ["Cannot be purchased",
+			"Unsellable",
+			"Only available <if [Project Sundial] is constructed>",
+			"Only available <when [Annihilation] Victory is enabled>"]
 	}
 ]
