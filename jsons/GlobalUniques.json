@@ -1,11 +1,4 @@
 {
-      "name": "Annihilation",
-    "uniques": [
-      "[-100]% [Food] <for [1000000] turns> <for [All] Civilizations> <if [Annihilation Victory] is constructed by anybody> <when [Annihilation] Victory is enabled>",
-      "[-100]% [Production] <for [1000000] turns> <for [All] Civilizations> <if [Annihilation Victory] is constructed by anybody> <when [Annihilation] Victory is enabled>",
-      "[-100]% [Culture] <for [1000000] turns> <for [All] Civilizations> <if [Annihilation Victory] is constructed by anybody> <when [Annihilation] Victory is enabled>",
-      "[-100]% [Science] <for [1000000] turns> <for [All] Civilizations> <if [Annihilation Victory] is constructed by anybody> <when [Annihilation] Victory is enabled>",
-      "[-100]% [Gold] <for [1000000] turns> <for [All] Civilizations> <if [Annihilation Victory] is constructed by anybody> <when [Annihilation] Victory is enabled>",
-      "[-100]% [Faith] <for [1000000] turns> <for [All] Civilizations> <if [Annihilation Victory] is constructed by anybody> <when [Annihilation] Victory is enabled>",
-      "[-100]% [Happiness] <for [1000000] turns> <for [All] Civilizations> <if [Annihilation Victory] is constructed by anybody> <when [Annihilation] Victory is enabled>"]
+      "name": "Pandemic",
+    "uniques": []
 }
