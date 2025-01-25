@@ -21,7 +21,8 @@
 			"Free [The Swarm] appears",
 			"Provides [1] [Annihilation]",
 			"Only available <in [Capital] cities>",
-		        "Free [The Swarm] appears <in [Capital] cities> <every [3] turns>"]
+		        "Free [The Swarm] appears <in [Capital] cities> <every [3] turns>",
+		        "Consumes [1] Annihilation <after adopting [Fascism]>"]
 	},
 	{
 		"name": "Annihilation Victory",
