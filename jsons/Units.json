@@ -1,6 +1,6 @@
 [
   {
-        "name": "GNOMON",
+        "name": "Gnomon",
         "unitType": "Missile",
         "movement": 1,
         "strength": 1200,
