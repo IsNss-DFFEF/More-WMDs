@@ -41,9 +41,9 @@
 			"Ignores zone of control", "Cannot capture cities",
 			"[2] additional attacks per turn", "No defensive terrain bonus",
 			"Can only attack [Land] tiles", "Ranged attacks may be performed over obstacles",
-			"[-100]% XP gained from combat",
-			
-			"Never appears as a Barbarian unit", "Consumes [4] Oil", "Consumes [2] Aluminum",
+			"[-100]% XP gained from combat", "Never appears as a Barbarian unit",
+			"Consumes [4] Oil", "Consumes [2] Aluminum",
+			"[This Unit] is destroyed <within [1] tiles of a [Ocean]>",
      			"[-75]% Strength <vs [Fighter] units>",
       			"[-75]% Strength <vs [Bomber] units>",
       			"[-75]% Strength <vs [Missile] units>"],
