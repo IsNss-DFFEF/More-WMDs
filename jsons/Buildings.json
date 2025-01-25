@@ -20,9 +20,7 @@
 			"Cannot be purchased",
 			"Free [The Swarm] appears",
 			"Provides [1] [Annihilation]",
-			"Only available <in [Capital] cities>",
-			"Free [The Swarm] appears <in [Capital] cities> <upon conquering a city>",
-			"Free [The Swarm] appears <in [Capital] cities> <upon defeating a [All] unit>"]
+			"Only available <in [Capital] cities>"]
 	},
 	{
 		"name": "Annihilation Victory",
