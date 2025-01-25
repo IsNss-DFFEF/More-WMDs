@@ -12,7 +12,6 @@
 		"Unit will heal every turn, even if it performs an action",
 		"All tiles cost 1 movement","Can enter ice tiles",
 		"May enter foreign tiles without open borders","Never appears as a Barbarian unit",
-		"Free [The Swarm] appears <upon conquering a city> <in [Capital] cities>","[-1] Sight",
-     		"Can move after attacking","May travel on Water tiles without embarking"]
+		"[-1] Sight", "Can move after attacking","May travel on Water tiles without embarking"]
    }
 ]
