@@ -3,4 +3,14 @@
         "name": "Landkreuzer",
         "movementType": "Land"
     },
+   {
+        "name": "Swarm",
+        "movementType": "Land"
+     "uniques": [   "Automation is a primary action",
+		"May attack when embarked","Eliminates combat penalty for attacking across a coast",
+		"Eliminates combat penalty for attacking over a river",
+		"Unit will heal every turn, even if it performs an action",
+		"All tiles cost 1 movement","Can enter ice tiles",
+		"May enter foreign tiles without open borders","Never appears as a Barbarian unit",
+		"Free [The Swarm] appears <upon conquering a city> <in [Capital] cities>"]
 ]
