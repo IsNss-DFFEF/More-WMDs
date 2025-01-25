@@ -6,7 +6,7 @@
 		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Cannot be hurried",
 			"Cannot be purchased",
-			"Free [GNOMON] appears",
+			"Free [Gnomon] appears",
 			"Provides [1] [Annihilation]",
 			"Only available <in [Capital] cities>",
 			"Consumes [1] Annihilation <after adopting [Fascism]>"]
@@ -19,9 +19,10 @@
 		"uniques": ["Cannot be hurried",
 			"Cannot be purchased",
 			"Free [The Swarm] appears",
+			"Provides [1] [Annihilation]",
 			"Only available <in [Capital] cities>",
-			"Free [The Swarm] appears <upon conquering a city> <in [This] cities>",
-		"Free [The Swarm] appears <upon defeating a [All] unit> <in [Capital] cities>"]
+			"Free [The Swarm] appears <in [This] cities> <upon conquering a city>",
+			"Free [The Swarm] appears <in [Capital] cities> <upon defeating a [All] unit>"]
 	},
 	{
 		"name": "Annihilation Victory",
@@ -29,7 +30,6 @@
 		"requiredResource": "Annihilation",
 		"uniques": ["Cannot be purchased",
 			"Unsellable",
-			"Only available <if [Project Sundial] is constructed>",
 			"Only available <when [Annihilation] Victory is enabled>"]
 	}
 ]
