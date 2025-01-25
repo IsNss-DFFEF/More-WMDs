@@ -49,4 +49,45 @@
       			"[-75]% Strength <vs [Missile] units>"],
 		"attackSound": "tankshot"
 	  },
+{	        "name": "Cobalt Bomb",
+        "unitType": "Missile",
+        "movement": 1,
+        "strength": 120,
+        "rangedStrength": 120,
+        "range": 12,
+        "cost": 800,
+	"requiredTech": "Advanced Ballistics",
+        "uniques": [
+		"Nuclear weapon of Strength [3]",
+		"Blast radius [2]",
+		"Consumes [1] [Uranium]",
+	"Only available <if [Manhattan Project] is constructed>"],
+        "attackSound": "nuke"
+    }, 
+	{	        "name": "Radiological Dispersment Device",
+        "unitType": "Missile",
+        "movement": 1,
+        "strength": 10,
+        "rangedStrength": 10,
+        "range": 12,
+        "cost": 800,
+	"requiredTech": "Advanced Ballistics",
+        "uniques": [
+		"Nuclear weapon of Strength [3]",
+		"Blast radius [4]",
+		"Consumes [1] [Uranium]",
+	"Only available <if [Manhattan Project] is constructed>"],
+        "attackSound": "nuke"
+    }, 
+{	"name": "The Swarm",
+        "unitType": "Swarm",
+        "movement": 4,
+        "strength": 60,
+	"cost": 400,
+	"requiredTech": "Nanotechnology",
+        "uniques": [
+		"Unbuildable", "Unsellable", "Cost increases by [75] when built",
+		"Free [The Swarm] appears <upon defeating a [All] unit> <in [Capital] cities>"],
+        "attackSound": "fire"
+    }, 
 ]
