@@ -30,6 +30,7 @@
 		"requiredResource": "Annihilation",
 		"uniques": ["Cannot be purchased",
 			"Unsellable",
-			"Only available <when [Annihilation] Victory is enabled>"]
+			"Only available <when [Annihilation] Victory is enabled>",
+		        "Only available <in [Capital] cities"]
 	}
 ]
