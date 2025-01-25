@@ -1,9 +1,9 @@
 [
       {
         "name": "Annihilation",
-        "victoryScreenHeader": "Build Project Sundial and annihilate the world.",
+        "victoryScreenHeader": "Build Project Sundial, The Swarm, or -insert pandemic name here- and annihilate the world.",
         "milestones": ["Build [Project Sundial]","Build [Annihilation Victory]"],
-        "victoryString": "You have won the final war. Your enemies eternally burried under miles of rubble and fallout, the land they once resided in is forever contaminated, the sun they once admired being blocked by numerous soot-filled clouds. You have won, yet at what cost?",
-        "defeatString": "You have lost, your enemies have built a world ending weapon. Your nation is forever doomed to be buried under miles of radioactive soot and soil, and your land and skies eternally filled with waste and soot. There is nothing left to do in this world."
+        "victoryString": "Millions will die, humanity doomed to extinction. You have won, yet at the cost of billions of innocent souls. Are you satisfied yet? Has your lust for supremacy been satiated yet?",
+        "defeatString": "The sun has set on human civilization, the paranoia and hubris of a select few has doomed mankind to extinction. Humanity has no hope of arising from this calamity ever again."
       }
 ]
