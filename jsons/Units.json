@@ -81,7 +81,7 @@
     }, 
 {	"name": "The Swarm",
         "unitType": "Swarm",
-        "movement": 4,
+        "movement": 6,
         "strength": 60,
 	"cost": 400,
 	"requiredTech": "Nanotechnology",
