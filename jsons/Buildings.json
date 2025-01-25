@@ -19,7 +19,8 @@
 		"uniques": ["Cannot be hurried",
 			"Cannot be purchased",
 			"Free [The Swarm] appears",
-			"Only available <in [Capital] cities>",]
+			"Only available <in [Capital] cities>",
+			"Free [The Swarm] appears <upon conquering a city> <in [This] cities>",]
 	},
 	{
 		"name": "Annihilation Victory",
