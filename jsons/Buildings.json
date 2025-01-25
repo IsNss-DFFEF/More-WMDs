@@ -12,7 +12,7 @@
 			"Consumes [1] Annihilation <after adopting [Fascism]>"]
 	},
 	{
-		"name": "The Swarm",
+		"name": "Project Beehive",
 		"isWonder": true
 		"cost": 24000,
 		"requiredTech": "Nanotechnology",
@@ -21,7 +21,7 @@
 			"Free [The Swarm] appears",
 			"Provides [1] [Annihilation]",
 			"Only available <in [Capital] cities>",
-		        "Free [The Swarm] unit appears <in [Capital] cities> <every [3] turns>"]
+		        "Free [The Swarm] appears <in [Capital] cities> <every [3] turns>"]
 	},
 	{
 		"name": "Annihilation Victory",
