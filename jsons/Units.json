@@ -86,8 +86,7 @@
 	"cost": 400,
 	"requiredTech": "Nanotechnology",
         "uniques": [
-		"Only available <if [The Swarm] is constructed>", "Unsellable", "Cost increases by [75] when built",
-		"Free [The Swarm] appears <upon defeating a [All] unit> <in [Capital] cities>"],
+		"Only available <if [The Swarm] is constructed>", "Unsellable", "Cost increases by [75] when built",],
         "attackSound": "fire"
     }, 
 ]
