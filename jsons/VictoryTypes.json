@@ -2,7 +2,7 @@
       {
         "name": "Annihilation",
         "victoryScreenHeader": "Build Project Sundial, The Swarm, or -insert pandemic name here- and annihilate the world.",
-        "milestones": ["Build [Project Sundial]","Build [Annihilation Victory]"],
+        "milestones": ["Build [Project Sundial]","Build [Project Beehive]"],
         "victoryString": "Millions will die, humanity doomed to extinction. You have won, yet at the cost of billions of innocent souls. Are you satisfied yet? Has your lust for supremacy been satiated yet?",
         "defeatString": "The sun has set on human civilization, the paranoia and hubris of a select few has doomed mankind to extinction. Humanity has no hope of arising from this calamity ever again."
       }
