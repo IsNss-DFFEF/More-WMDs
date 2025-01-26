@@ -24,8 +24,35 @@
         "rangedStrength": 600,
         "range": 12,
         "cost": 1000,
-        "requiredTech": "Advanced Ballistics",
+        "requiredTech": "Satellites",
         "uniques": ["Cannot be hurried","Unsellable","Cannot be purchased","Consumes [1] [Aluminum]"],
+        "attackSound": "nuke"
+    }, 
+{
+        "name": "Orbital Strike Cannon",
+        "unitType": "Satellite",
+        "movement": 12,
+        "strength": 60,
+        "cost": 600,
+        "requiredTech": "Satellites",
+        "uniques": [
+		"Unsellable","Cannot be purchased",
+		"Cannot attack", "Limited to [3] per Civilization",
+		"Consumes [1] [Aluminum]", "Consumes [1] [Uranium]",
+		"Can carry [3] [Ammunition] units"],
+    }, 
+	    {
+        "name": "Orbital Strike",
+        "unitType": "Ammunition",
+        "movement": 1,
+        "strength": 600,
+        "rangedStrength": 600,
+        "range": 18,
+        "cost": 600,
+        "requiredTech": "Lasers",
+        "uniques": ["Cannot be hurried","Unsellable","Cannot be purchased",
+		"Nuclear weapon of Strength [3]",
+		"Blast radius [3]"],
         "attackSound": "nuke"
     }, 
   	{
