@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Prevalence",
+		"resourceType": "Strategic",
+		"uniques": [
+      "Doesn't generate naturally","Excluded from map editor","Stockpiled","Cannot be traded"
+    ]
+	}
+  {
+		"name": "Cures",
+		"resourceType": "Strategic",
+		"uniques": [
+      "Doesn't generate naturally","Excluded from map editor","Stockpiled"
+    ]
+	}
+]
