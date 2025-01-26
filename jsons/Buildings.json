@@ -22,7 +22,8 @@
 			"Provides [1] [Annihilation]",
 			"Only available <in [Capital] cities>",
 		        "Free [The Swarm] appears <upon declaring war with a major Civilization>",
-			"Free [The Swarm] appears <upon conquering a city>",
+			"[3] free [The Swarm] units appear <upon conquering a city>",
+			"Free [The Swarm] appears <upon defeating a [All] unit>",
 		        "Consumes [1] Annihilation <after adopting [Fascism]>"]
 	},
 	{
