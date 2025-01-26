@@ -34,7 +34,7 @@
 },
 	
     {
-        "name": "Strike",
+        "name": "Orbital Strike",
         "movementType": "Air",
         "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
     },
