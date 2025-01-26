@@ -99,8 +99,7 @@
         "range": 8,
         "cost": 300,
 	"requiredTech": "Combined Arms",
-        "uniques": ["Nuclear weapon of Strength [0]",
-		"Blast radius [2]","Destroys tile improvements when attacking"],
+        "uniques": ["Destroys tile improvements when attacking"],
         "attackSound": "fire"
     }, 
 ]
