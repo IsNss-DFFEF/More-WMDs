@@ -20,5 +20,15 @@
 		"All tiles cost 1 movement","Can enter ice tiles",
 		"May enter foreign tiles without open borders","Never appears as a Barbarian unit",
 		"[-1] Sight", "Can move after attacking","May travel on Water tiles without embarking"]
-   }
+   },
+{	        "name": "Satellite",
+        "movementType": "Land"
+	"uniques": [
+		"Can see over obstacles",
+		"Cannot attack",
+		"[6] Sight",
+		"All tiles cost 1 movement",
+		"Can pass through impassable tiles",
+		"May travel on Water tiles without embarking"]
+}
 ]
