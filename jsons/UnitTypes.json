@@ -30,5 +30,11 @@
 		"All tiles cost 1 movement",
 		"Can pass through impassable tiles",
 		"May travel on Water tiles without embarking"]
-}
+},
+	
+    {
+        "name": "Strike",
+        "movementType": "Air",
+        "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
+    },
 ]
