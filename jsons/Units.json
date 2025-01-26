@@ -37,7 +37,7 @@
         "uniques": [
 		"Unsellable","Cannot be purchased",
 		"Limited to [3] per Civilization",
-		"Consumes [1] [Aluminum]", "Consumes [1] [Uranium]",
+		"Consumes [2] [Aluminum]", "Consumes [1] [Uranium]","Only available <if [Manhattan Project] is constructed>",
 		"Can carry [3] [Orbital Strike] units"],
     }, 
 	    {
@@ -46,12 +46,13 @@
         "movement": 1,
         "strength": 600,
         "rangedStrength": 600,
-        "range": 6,
+        "range": 12,
         "cost": 600,
         "requiredTech": "Lasers",
-        "uniques": ["Cannot be hurried","Unsellable","Cannot be purchased",
+        "uniques": ["Cannot be hurried","Unsellable","Cannot be purchased", "Only available <if [Manhattan Project] is constructed>",
 		"Nuclear weapon of Strength [3]",
-		"Blast radius [3]"],
+		"Blast radius [3]",
+		"Consumes [2] [Uranium]",],
         "attackSound": "nuke"
     }, 
   	{
