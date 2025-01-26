@@ -29,7 +29,8 @@
 		"[6] Sight",
 		"All tiles cost 1 movement",
 		"Can pass through impassable tiles",
-		"May travel on Water tiles without embarking"]
+		"May travel on Water tiles without embarking",
+		"Ignores zone of control"]
 },
 	
     {
