@@ -108,7 +108,7 @@
 	"cost": 400,
 	"requiredTech": "Nanotechnology",
         "uniques": [
-		"Only available <if [Projecy Beehive] is constructed>",
+		"Only available <if [Project Beehive] is constructed>",
 		"Unsellable", "Cost increases by [75] when built",			
 		],
         "attackSound": "fire"
