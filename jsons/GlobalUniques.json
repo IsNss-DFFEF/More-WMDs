@@ -1,4 +1,29 @@
-{
-      "name": "Pandemic",
-    "uniques": []
-}
+[
+      //Prevalence Related
+
+      {
+            "name": "Light Prevalence",
+            "uniques": []
+      },
+      {
+            "name": "Medium Prevalence",
+            "uniques": []
+      },
+      {
+            "name": "High Prevalence",
+            "uniques": []
+      },
+      {
+            "name": "Extreme Prevalence",
+            "uniques": []
+      },
+      {
+            "name": "Debilitating Prevalence",
+            "uniques": []
+      },
+      {
+            "name": "Total Prevalence",
+            "uniques": []
+      },
+      
+]
