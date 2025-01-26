@@ -91,4 +91,16 @@
 		],
         "attackSound": "fire"
     }, 
+{	"name": "Napalm",
+        "unitType": "Missile",
+        "movement": 1,
+        "strength": 60,
+        "rangedStrength": 60,
+        "range": 8,
+        "cost": 300,
+	"requiredTech": "Combined Arms",
+        "uniques": [
+		"Blast radius [2]","Destroys tile improvements when attacking"],
+        "attackSound": "fire"
+    }, 
 ]
