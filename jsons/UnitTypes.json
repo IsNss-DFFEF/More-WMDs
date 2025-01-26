@@ -26,7 +26,7 @@
 	"uniques": [
 		"Can see over obstacles",
 		"Cannot attack",
-		"[6] Sight",
+		"[10] Sight",
 		"All tiles cost 1 movement",
 		"Can pass through impassable tiles",
 		"May travel on Water tiles without embarking",
