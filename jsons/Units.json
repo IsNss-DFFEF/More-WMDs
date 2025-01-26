@@ -109,7 +109,9 @@
 	"requiredTech": "Nanotechnology",
         "uniques": [
 		"Only available <if [Project Beehive] is constructed>",
-		"Unsellable", "Cost increases by [75] when built",			
+		"Unsellable", "Cost increases by [75] when built",
+		"[3] free [The Swarm] units appear <upon conquering a city>",
+		"Free [The Swarm] appears <upon defeating a [All] unit>",
 		],
         "attackSound": "fire"
     }, 
