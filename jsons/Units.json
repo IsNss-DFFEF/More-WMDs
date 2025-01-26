@@ -43,7 +43,7 @@
 			"Can only attack [Land] tiles", "Ranged attacks may be performed over obstacles",
 			"[-100]% XP gained from combat", "Never appears as a Barbarian unit",
 			"Consumes [4] Oil", "Consumes [2] Aluminum",
-			"[This Unit] is destroyed <within [1] tiles of a [Ocean]>",
+			"Cannot enter ocean tiles",
      			"[-75]% Strength <vs [Fighter] units>",
       			"[-75]% Strength <vs [Bomber] units>",
       			"[-75]% Strength <vs [Missile] units>"],
