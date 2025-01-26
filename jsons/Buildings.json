@@ -4,8 +4,9 @@
 		"isNationalWonder": true
 		"cost": 24000,
 		"requiredTech": "Nuclear Fusion",
-		"uniques": ["Cannot be hurried",
-			"Cannot be purchased",
+		"uniques": [
+			"Cannot be hurried", "Unsellable",
+			"Cannot be purchased", "Limited to [1] per Civilization",
 			"Free [Gnomon] appears",
 			"Only available <in [Capital] cities>",
 		"Triggers a global alert upon build start","Triggers a global alert upon completion"]
@@ -15,8 +16,9 @@
 		"isNationalWonder": true
 		"cost": 24000,
 		"requiredTech": "Nanotechnology",
-		"uniques": ["Cannot be hurried",
-			"Cannot be purchased",
+		"uniques": [
+			"Cannot be hurried", "Unsellable",
+			"Cannot be purchased", "Limited to [1] per Civilization",
 			"Free [The Swarm] appears",
 			"Only available <in [Capital] cities>",
 		        "Free [The Swarm] appears <upon declaring war with a major Civilization>",
@@ -28,10 +30,20 @@
 		"cost": 24000,
 		"requiredTech": "Globalization",
 		"uniques": [
-			"Cannot be hurried",
-			"Cannot be purchased",
+			"Cannot be hurried", "Unsellable",
+			"Cannot be purchased", "Limited to [1] per Civilization",
 			"Only available <in [Capital] cities>",
-			"Adopt [Pandemic Management] <for [Major] Civilizations>",
 		"Triggers a global alert upon build start","Triggers a global alert upon completion"]
+	},
+	{
+		"name": "Activate Project Hyphae",
+		"isNationalWonder": true
+		"cost": 1,
+		"uniques": [
+			"Cannot be hurried", "Unsellable",
+			"Cannot be purchased", "Limited to [1] per Civilization",
+			"Only available <if [Project Hyphae] is constructed>",
+			"Adopt [Pandemic Management] <for [Major] Civilizations>",
+			"Triggers a global alert upon completion"]
 	},
 ]
