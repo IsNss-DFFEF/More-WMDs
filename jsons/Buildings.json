@@ -20,8 +20,6 @@
 			"Free [The Swarm] appears",
 			"Only available <in [Capital] cities>",
 		        "Free [The Swarm] appears <upon declaring war with a major Civilization>",
-			"[3] free [The Swarm] units appear <upon conquering a city>",
-			"Free [The Swarm] appears <upon defeating a [All] unit>",
 		"Triggers a global alert upon build start","Triggers a global alert upon completion"]
 	},
 ]
