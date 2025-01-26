@@ -7,9 +7,7 @@
 		"uniques": ["Cannot be hurried",
 			"Cannot be purchased",
 			"Free [Gnomon] appears",
-			"Provides [1] [Annihilation]",
 			"Only available <in [Capital] cities>",
-			"Consumes [1] Annihilation <after adopting [Fascism]>",
 		"Triggers a global alert upon build start","Triggers a global alert upon completion"]
 	},
 	{
@@ -20,21 +18,10 @@
 		"uniques": ["Cannot be hurried",
 			"Cannot be purchased",
 			"Free [The Swarm] appears",
-			"Provides [1] [Annihilation]",
 			"Only available <in [Capital] cities>",
 		        "Free [The Swarm] appears <upon declaring war with a major Civilization>",
 			"[3] free [The Swarm] units appear <upon conquering a city>",
 			"Free [The Swarm] appears <upon defeating a [All] unit>",
-		        "Consumes [1] Annihilation <after adopting [Fascism]>",
 		"Triggers a global alert upon build start","Triggers a global alert upon completion"]
 	},
-	{
-		"name": "Annihilation Victory",
-		"cost": 1,
-		"requiredResource": "Annihilation",
-		"uniques": ["Cannot be purchased",
-			"Unsellable",
-			"Only available <when [Annihilation] Victory is enabled>",
-		        "Only available <in [Capital] cities"]
-	}
 ]
