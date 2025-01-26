@@ -1,7 +1,14 @@
 [
   {
         "name": "Landkreuzer",
-        "movementType": "Land"
+        "movementType": "Land",
+	"uniques": [
+		"No defensive terrain bonus", "Never appears as a Barbarian unit",
+		"Cannot enter ocean tiles", "Transfer Movement to [Civilian]",
+		"[1] Movement point cost to embark",  "[1] Movement point cost to disembark",
+     		"[-75]% Strength <vs [Fighter] units>",
+      		"[-75]% Strength <vs [Bomber] units>",
+      		"[-75]% Strength <vs [Missile] units>"]
     },
    {
         "name": "Swarm",
