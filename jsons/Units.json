@@ -12,8 +12,7 @@
 		"Unbuildable","Unsellable",
 		"Cannot be purchased",
 		"Blast radius [120]",
-		"Consumes [6] [Uranium]",
-		"Consumes [1] [Annihilation]"],
+		"Consumes [6] [Uranium]"],
         "attackSound": "nuke"
     }, 
     {
