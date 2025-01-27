@@ -72,7 +72,7 @@
 			],
 		"attackSound": "tankshot"
 	  },
-	//Nuclear Missiles
+
 {	        "name": "Cobalt Bomb",
         "unitType": "Missile",
         "movement": 1,
@@ -137,7 +137,7 @@
 {	"name": "The Swarm",
         "unitType": "Swarm",
         "movement": 6,
-        "strength": 60,
+        "strength": 50,
 	"cost": 400,
 	"requiredTech": "Nanotechnology",
         "uniques": [
