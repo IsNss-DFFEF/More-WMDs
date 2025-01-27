@@ -125,7 +125,7 @@
         "rangedStrength": 400,
         "range": 36,
         "cost": 1000,
-	"requiredTech": "Advanced Ballistic",
+	"requiredTech": "Advanced Ballistics",
         "uniques": [
 		"Nuclear weapon of Strength [3]",
 		"Blast radius [2]",
