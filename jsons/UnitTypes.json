@@ -30,7 +30,8 @@
 		"All tiles cost 1 movement",
 		"Can pass through impassable tiles",
 		"May travel on Water tiles without embarking",
-		"Ignores zone of control"]
+		"Ignores zone of control",
+		"May enter foreign tiles without open borders"]
 },
 	
     {
