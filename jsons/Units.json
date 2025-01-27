@@ -52,7 +52,7 @@
         "uniques": ["Cannot be hurried","Unsellable","Cannot be purchased", "Only available <if [Manhattan Project] is constructed>",
 		"Nuclear weapon of Strength [3]",
 		"Blast radius [3]",
-		"Consumes [2] [Uranium]",],
+		"Consumes [3] [Uranium]"],
         "attackSound": "nuke"
     }, 
   	{
@@ -72,6 +72,7 @@
 			],
 		"attackSound": "tankshot"
 	  },
+	//Nuclear Missiles
 {	        "name": "Cobalt Bomb",
         "unitType": "Missile",
         "movement": 1,
@@ -102,6 +103,37 @@
 	"Only available <if [Manhattan Project] is constructed>"],
         "attackSound": "nuke"
     }, 
+{	"name": "Tactical Nuke",
+        "unitType": "Missile",
+        "movement": 1,
+        "strength": 300,
+        "rangedStrength": 300,
+        "range": 12,
+        "cost": 650,
+	"requiredTech": "Rocketry",
+        "uniques": [
+		"Nuclear weapon of Strength [2]",
+		"Blast radius [1]",
+		"Consumes [1] [Uranium]",
+	"Only available <if [Manhattan Project] is constructed>"],
+        "attackSound": "nuke"
+    }, 
+{	"name": "Intercontinental Ballistic Missile",
+        "unitType": "Missile",
+        "movement": 1,
+        "strength": 450,
+        "rangedStrength": 450,
+        "range": 12,
+        "cost": 1000,
+	"requiredTech": "Advanced",
+        "uniques": [
+		"Nuclear weapon of Strength [3]",
+		"Blast radius [2]",
+		"Consumes [2] [Uranium]",
+	"Only available <if [Manhattan Project] is constructed>"],
+        "attackSound": "nuke"
+    }, 
+	
 {	"name": "The Swarm",
         "unitType": "Swarm",
         "movement": 6,
@@ -116,15 +148,17 @@
 		],
         "attackSound": "fire"
     }, 
-{	"name": "Napalm",
-        "unitType": "Missile",
-        "movement": 1,
-        "strength": 60,
-        "rangedStrength": 60,
-        "range": 8,
-        "cost": 300,
-	"requiredTech": "Combined Arms",
-        "uniques": ["Destroys tile improvements when attacking"],
-        "attackSound": "fire"
-    }, 
+	{
+		"name": "Napalm Bomber",
+		"unitType": "Bomber",
+		"movement": 1,
+		"strength": 65,
+		"rangedStrength": 65,
+		"range": 10,
+		"cost": 400,
+		"requiredTech": "Radar",
+		"requiredResource": "Oil",
+		"uniques": ["Destroys tile improvements when attacking"],
+		"attackSound": "fire"
+	},
 ]
