@@ -97,11 +97,11 @@
         "cost": 800,
 	"requiredTech": "Advanced Ballistics",
         "uniques": [
-		"Nuclear weapon of Strength [1]",
-		"Blast radius [4]",
+		"Nuclear weapon of Strength [0]",
+		"Blast radius [2]",
 		"Consumes [1] [Uranium]",
 	"Only available <if [Manhattan Project] is constructed>"],
-        "attackSound": "nuke"
+        "attackSound": "fire"
     }, 
 {	"name": "Tactical Nuke",
         "unitType": "Missile",
@@ -181,9 +181,42 @@
 		"cost": 600,
 		"requiredTech": "Nuclear Fission",
 		"requiredResource": "Uranium",
-		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit", "Self-destructs when attacking",
+		"uniques": ["Never appears as a Barbarian unit", "Self-destructs when attacking",
 		"Nuclear weapon of Strength [1]", "Only available <if [Manhattan Project] is constructed>", "Blast radius [1]", "[+500]% strength <when attacking>"],
 		"attackSound": "nuke"
+	},
+		{
+		"name": "Free Missile",
+		"unitType": "Civilian",
+		"movement": 0,
+		"uniques": ["Unbuildable","Cannot be Purchased","Uncapturable","No Sight",
+		"Can transform to [Atomic Bomb] <hidden from users>",
+		"Can transform to [Nuclear Missile] <hidden from users>",
+		"Can transform to [Guided Missile] <hidden from users>",
+		"Can transform to [Massive Ordnance Air Blast] <hidden from users>",
+		"Can transform to [Cobalt Bomb] <hidden from users>",
+		"Can transform to [Radiological Dispersment Device] <hidden from users>",
+		"Can transform to [Tactical Nuke] <hidden from users>",
+		"Can transform to [Intercontinental Ballistic Missile] <hidden from users>",
+		"Comment [Can transform into any Missile unit]"]
+		},
+		{
+		"name": "Military Architect",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 450,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["Can transform to [Missile Silo] <[3] times> <after which this unit is consumed>", "Can pass through impassable tiles",]
+	},
+			{
+		"name": "Missile Silo",
+		"unitType": "Civilian",
+		"movement": 0,
+		"requiredResource": "Aluminum",
+		"uniques": ["Unbuildable","Cannot be Purchased","Invisible to non-adjacent units",
+			"Can carry [6] [Missile] units","No Sight","Cannot Move",
+			"Can pass through impassable tiles",
+			"[This Unit] heals [100] HP <every [1] turns>""]
 	},
 	//Base game units
 		{
@@ -213,20 +246,5 @@
 		"Cannot intercept [Missile] units <before adopting [Hypersonic Missiles]>",
 		"[+1000]% Strength <vs [Missile] units> <after adopting [Hypersonic Missiles]>"],
 		"attackSound": "missile"
-	},
-	{
-		"name": "Free Missile",
-		"unitType": "Civilian",
-		"movement": 0,
-		"uniques": ["Unbuildable","Cannot be Purchased","Uncapturable","No Sight",
-		"Can transform to [Atomic Bomb] <hidden from users>",
-		"Can transform to [Nuclear Missile] <hidden from users>",
-		"Can transform to [Guided Missile] <hidden from users>",
-		"Can transform to [Massive Ordnance Air Blast] <hidden from users>",
-		"Can transform to [Cobalt Bomb] <hidden from users>",
-		"Can transform to [Radiological Dispersment Device] <hidden from users>",
-		"Can transform to [Tactical Nuke] <hidden from users>",
-		"Can transform to [Intercontinental Ballistic Missile] <hidden from users>",
-		"Comment [Can transform into any Missile unit]"],
 	},
 ]
