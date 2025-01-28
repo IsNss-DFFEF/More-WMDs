@@ -54,7 +54,7 @@
 		"maintenance": 2,
 		"uniques": [
 			"Can only be built <after adopting [Ode to Missile]>",
-			"[+50}% Production <upon constructing [Missile]>"
+			"Comment [+25% Production when constructing Missile units]"
 		]
 	},
 ]
