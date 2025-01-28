@@ -46,4 +46,15 @@
 			"Adopt [Pandemic Management] <for [Major] Civilizations>",
 			"Triggers a global alert upon completion"]
 	},
+	{
+		"name": "Ode to Missile",
+		"faith": 2,
+		"happiness": 2,
+		"production": 2,
+		"maintenance": 2,
+		"uniques": [
+			"Can only be built <after adopting [Ode to Missile]>",
+			"[+50}% Production <upon constructing [Missile]>"
+		]
+	},
 ]
