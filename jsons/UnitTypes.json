@@ -54,6 +54,7 @@
 	"[-1 Food, +1 Production] per every [2] [Food] [in this city] <after adopting [Arsenal of Democracy]>",
 	"[-1 Faith, +1 Production] per every [2] [Faith] [in this city] <after adopting [Arsenal of Democracy]>",
 	"[-1 Science, +1 Production] per every [2] [Science] [in this city] <after adopting [Arsenal of Democracy]>",
+	"[-1 Culture, +1 Production] per every [2] [Culture] [in this city] <after adopting [Arsenal of Democracy]>",
 	"Provides [1] [Missile]"]
     },
 ]
