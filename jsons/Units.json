@@ -161,4 +161,28 @@
 		"uniques": ["Destroys tile improvements when attacking"],
 		"attackSound": "fire"
 	},
+	{
+		"name": "Nuke on a Truck",
+		"unitType": "Armored",
+		"movement": 4,
+		"strength": 60,
+		"cost": 600,
+		"requiredTech": "Nuclear Fission",
+		"requiredResource": "Uranium",
+		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit", "Self-destructs when attacking",
+		"Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>", "Blast radius [1]", "[+500]% strength <when attacking>"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Nuke on a Boat",
+		"unitType": "WaterMelee",
+		"movement": 8,
+		"strength": 60,
+		"cost": 600,
+		"requiredTech": "Nuclear Fission",
+		"requiredResource": "Uranium",
+		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit", "Self-destructs when attacking",
+		"Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>", "Blast radius [1]", "[+500]% strength <when attacking>"],
+		"attackSound": "nuke"
+	},
 ]
