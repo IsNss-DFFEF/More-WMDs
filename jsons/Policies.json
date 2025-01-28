@@ -33,7 +33,7 @@
             {
                 "name": "Arsenal of Democracy",
                 "uniques": [
-                    "Comment [50% of all Gold, Science, Faith, and Food is converted into Production when building Missile units.]"
+                    "Comment [50% of all Gold, Science, Faith, Culture, and Food is converted into Production when building Missile units.]"
                 ],
                 "row": 1,
                 "column": 5
