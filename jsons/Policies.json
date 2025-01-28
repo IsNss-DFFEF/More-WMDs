@@ -4,7 +4,7 @@
         "era": "Atomic era",
         },
         "uniques": [
-        "[+50]% [Production] <when constructing [Missile] units>"
+        "Comment [+50% Production when constructing Missile units]"
         ],
         "policies": [
             {
