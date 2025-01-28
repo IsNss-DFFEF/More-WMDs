@@ -1,7 +1,7 @@
 [
   {
         "name": "Gnomon",
-        "unitType": "Missile",
+        "unitType": "Backyard Nuke",
         "movement": 1,
         "strength": 1200,
         "rangedStrength": 1200,
