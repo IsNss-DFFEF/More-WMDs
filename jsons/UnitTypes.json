@@ -44,4 +44,14 @@
         "movementType": "Air",
         "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
     },
+	    {
+        "name": "Missile",
+        "movementType": "Air",
+        "uniques": ["Self-destructs when attacking", "Cannot be intercepted",
+	"[+25]% [Production] [in this city] <if [Ode to Missile] is constructed>",
+	"[-1 Gold, +1 Production] per every [2] [Gold]",
+	"[-1 Food, +1 Production] per every [2] [Food]",
+	"[-1 Faith, +1 Production] per every [2] [Faith]",
+	"[-1 Science, +1 Production] per every [2] [Science]",]
+    },
 ]
