@@ -214,4 +214,19 @@
 		"[+1000]% Strength <vs [Missile] units> <after adopting [Hypersonic Missiles]>"],
 		"attackSound": "missile"
 	},
+	{
+		"name": "Free Missile",
+		"unitType": "Civilian",
+		"movement": 0,
+		"uniques": ["Unbuildable","Cannot be Purchased","Uncapturable","No Sight",
+		"Can transform to [Atomic Bomb] <hidden from users>",
+		"Can transform to [Nuclear Missile] <hidden from users>",
+		"Can transform to [Guided Missile] <hidden from users>",
+		"Can transform to [Massive Ordnance Air Blast] <hidden from users>",
+		"Can transform to [Cobalt Bomb] <hidden from users>",
+		"Can transform to [Radiological Dispersment Device] <hidden from users>",
+		"Can transform to [Tactical Nuke] <hidden from users>",
+		"Can transform to [Intercontinental Ballistic Missile] <hidden from users>",
+		"Comment [Can transform into any Missile unit]"],
+	},
 ]
