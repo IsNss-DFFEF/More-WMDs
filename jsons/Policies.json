@@ -24,9 +24,9 @@
                 "column": 2
             },
             {
-                "name": "",
+                "name": "Ode to Missile ",
                 "uniques": [
-            //building or smtn
+            "Comment [Unlocks the 'Ode to Missile' building.]"
                 ],
                 "row": 2,
                 "column": 4
@@ -45,7 +45,8 @@
             {
                 "name": "True Missilocracy",
                 "uniques": [
-                  "[+1 Happiness, +1 Culture, +1 Faith] [in all cities] per every [2] [Missile]"
+                    "[+1 Happiness, +1 Culture, +1 Faith] [in all cities] per every [3] [Missile]",
+                    "[+5 Happiness, +5 Culture, +5 Faith, +5 Production] from all [Manhattan Project] buildings"
                 ],
                 "requires": ["Efficient Propulsion", "Hypersonic Missiles", "", "Arsenal of Democracy"],
                 "row": 3,
@@ -58,5 +59,5 @@
                 ]
             }
         ]
-    },
+    }
 ]
