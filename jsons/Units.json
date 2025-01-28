@@ -196,7 +196,7 @@
 		"cost": 150,
 		"requiredTech": "Advanced Ballistics",
 		"uniques": ["[-100]% maintenance costs", "Cannot intercept [Missile] units <before adopting [Hypersonic Missiles]>",
-		"[+1600]% Strength <vs [Missile] units> <after adopting [Hypersonic Missiles]>",
+		"[+1000000]% Strength <vs [Missile] units> <after adopting [Hypersonic Missiles]>",
 		"[100]% chance to intercept air attacks <after adopting [Hypersonic Missiles]>"],
 		"attackSound": "missile"
 	},
@@ -211,7 +211,7 @@
 		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>",
 			"[+150]% Strength <vs [Helicopter] units>", "Never appears as a Barbarian unit",
 		"Cannot intercept [Missile] units <before adopting [Hypersonic Missiles]>",
-		"[+1600]% Strength <vs [Missile] units> <after adopting [Hypersonic Missiles]>"],
+		"[+1000]% Strength <vs [Missile] units> <after adopting [Hypersonic Missiles]>"],
 		"attackSound": "missile"
 	},
 ]
