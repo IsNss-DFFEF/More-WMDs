@@ -53,6 +53,7 @@
 		"happiness": 2,
 		"production": 2,
 		"maintenance": 2,
+		"cost": 500,
 		"uniques": [
 			"Can only be built <after adopting [Ode to Missile]>",
 			"Comment [+25% Production when constructing Missile units]"
