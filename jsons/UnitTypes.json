@@ -47,7 +47,7 @@
 	    {
         "name": "Missile",
         "movementType": "Air",
-        "uniques": ["Self-destructs when attacking", "Cannot be intercepted",
+        "uniques": ["Self-destructs when attacking",
         "[+50]% [Production] [in this city] <after adopting [Missilocracy]>",
 	"[+25]% [Production] [in this city] <if [Ode to Missile] is constructed>",
 	"[-1 Gold, +1 Production] per every [2] [Gold] [in this city] <after adopting [Arsenal of Democracy]>",
