@@ -48,6 +48,7 @@
 	},
 	{
 		"name": "Ode to Missile",
+		"culture": 2,
 		"faith": 2,
 		"happiness": 2,
 		"production": 2,
