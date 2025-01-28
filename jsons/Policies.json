@@ -42,7 +42,7 @@
                 "name": "True Missilocracy",
                 "uniques": [
                     "[+1 Happiness, +1 Culture, +1 Faith] [in all cities] per every [3] [Missile]",
-                    "[+5 Happiness, +5 Culture, +5 Faith, +5 Production] from all [Manhattan Project] buildings"
+                    "[+5 Happiness, +5 Culture, +5 Faith, +5 Production, +5 Science] from all [Manhattan Project] buildings"
                 ],
                 "requires": ["Efficient Propulsion", "Hypersonic Missiles", "Ode to Missile", "Arsenal of Democracy"],
                 "row": 3,
