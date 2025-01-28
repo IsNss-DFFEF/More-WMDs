@@ -170,7 +170,7 @@
 		"requiredTech": "Nuclear Fission",
 		"requiredResource": "Uranium",
 		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit", "Self-destructs when attacking",
-		"Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>", "Blast radius [1]", "[+500]% strength <when attacking>"],
+		"Nuclear weapon of Strength [1]", "Only available <if [Manhattan Project] is constructed>", "Blast radius [1]", "[+500]% strength <when attacking>"],
 		"attackSound": "nuke"
 	},
 	{
@@ -182,7 +182,7 @@
 		"requiredTech": "Nuclear Fission",
 		"requiredResource": "Uranium",
 		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit", "Self-destructs when attacking",
-		"Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>", "Blast radius [1]", "[+500]% strength <when attacking>"],
+		"Nuclear weapon of Strength [1]", "Only available <if [Manhattan Project] is constructed>", "Blast radius [1]", "[+500]% strength <when attacking>"],
 		"attackSound": "nuke"
 	},
 	//Base game units
@@ -196,7 +196,8 @@
 		"cost": 150,
 		"requiredTech": "Advanced Ballistics",
 		"uniques": ["[-100]% maintenance costs", "Cannot intercept [Missile] units <before adopting [Hypersonic Missiles]>",
-		"[+1600]% Strength <vs [Missile] units> <after adopting [Hypersonic Missiles]>"],
+		"[+1600]% Strength <vs [Missile] units> <after adopting [Hypersonic Missiles]>",
+		"[100]% chance to intercept air attacks <after adopting [Hypersonic Missiles]>"],
 		"attackSound": "missile"
 	},
 		{
