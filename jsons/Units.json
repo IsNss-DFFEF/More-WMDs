@@ -170,13 +170,13 @@
 		"Can transform to [Cobalt Bomb] <hidden from users>",
 		"Can transform to [Radiological Dispersment Device] <hidden from users>",
 		"Can transform to [Tactical Nuke] <hidden from users>",
-		"Can transform to [Intercontinental Ballistic Missile] <hidden from users>",
-		"Comment [Can transform into any Missile unit]"]
+		"Can transform to [Intercontinental Ballistic Missile] <hidden from users>"]
 		},
 		{
 		"name": "Great Missilologist",
 		"unitType": "Civilian",
-		"uniques": ["Can transform to [Free Missile]",
+		"uniques": ["Can transform to [Free Missile] <hidden from users>",
+			"Comment [Can transform into any Missile unit regardless of resource constraints once, consuming this unit.]",
             "Can instantly construct a [Missile Silo] improvement <by consuming this unit>",
             "Great Person - [Missilology]", "Unbuildable", "Uncapturable"],
 		"movement": 2
