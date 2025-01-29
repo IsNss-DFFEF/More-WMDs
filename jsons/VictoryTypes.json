@@ -2,7 +2,7 @@
       {
         "name": "Annihilation",
         "victoryScreenHeader": "Build Project Sundial, Project Fractal, and Project Hyphae to ensure the extinction of the human race.",
-        "milestones": ["Build [Project Sundial]","Build [Project Fractal]"],
+        "milestones": ["Build [Project Sundial]","Build [Project Fractal]","Build [Project Hyphae]"],
         "victoryString": "Humanity is doomed to extinction. Hope for survival has long left the human race. Are you satisfied now?",
         "defeatString": "Human civilization has reached its end. Any onlookers look at us with immense pity. There is no more hope to cling on to."
       }
