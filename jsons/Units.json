@@ -206,7 +206,7 @@
 		"movement": 2,
 		"cost": 450,
 		"requiredTech": "Advanced Ballistics",
-		"uniques": ["Can transform to [Missile Silo] <[3] times> <after which this unit is consumed>", "Can pass through impassable tiles",]
+		"uniques": ["Can transform to [Missile Silo] <[3] times> <after which this unit is consumed>", "Can pass through impassable tiles"]
 	},
 			{
 		"name": "Missile Silo",
@@ -216,7 +216,7 @@
 		"uniques": ["Unbuildable","Cannot be Purchased","Invisible to non-adjacent units",
 			"Can carry [6] [Missile] units","No Sight","Cannot Move",
 			"Can pass through impassable tiles",
-			"[This Unit] heals [100] HP <every [1] turns>""]
+			"[This Unit] heals [100] HP <every [1] turns>"]
 	},
 	//Base game units
 		{
