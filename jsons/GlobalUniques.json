@@ -1,5 +1,20 @@
 {
     "name": "Project Hyphae Activated",
     "uniques": [
+        "[-50]% [Food] <in cities with at least [50] [Population]> <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
+        "[-50]% [Food] <in cities with at least [40] [Population]> <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
+        "[-50]% [Food] <in cities with at least [30] [Population]> <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
+        "[-50]% [Food] <in cities with at least [20] [Population]> <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
+        "[-25]% [Food] <in cities with at least [15] [Population]> <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
+        "[-25]% [Food] <in cities with at least [10] [Population]> <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
+        "[-25]% [Food] <in cities with at least [5] [Population]> <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
+        "[-25]% [Food] <in cities with at least [0] [Population]> <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
+                
+        "[-50]% [Production] <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
+        "[-50]% [Happiness] <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
+        "[-50]% [Gold] <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
+        "[-50]% [Science] <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
+        "[-50]% [Faith] <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
+        "[-50]% [Culture] <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
     ]
 }
