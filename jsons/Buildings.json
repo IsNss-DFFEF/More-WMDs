@@ -41,7 +41,6 @@
 	{
 		"name": "Activate Project Hyphae",
 		"isNationalWonder": true
-		"cost": 1,
 		"uniques": [
 			"Cannot be hurried", "Unsellable",
 			"Cannot be purchased", "Limited to [1] per Civilization",
