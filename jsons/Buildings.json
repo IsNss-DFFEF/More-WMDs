@@ -10,10 +10,11 @@
 			
 			"Free [Gnomon] appears",
 
-		"Triggers a global alert upon build start","Triggers a global alert upon completion"]
+		"Triggers a global alert upon build start","Triggers a global alert upon completion"],
+		"quote": "'The sun has set on the human race' - Unknown"
 	},
 	{
-		"name": "Project Beehive",
+		"name": "Project Locust",
 		"isWonder": true
 		"cost": 2400,
 		"requiredTech": "Nanotechnology",
@@ -23,7 +24,8 @@
 			
 			"Free [The Swarm] appears",
 
-		"Triggers a global alert upon build start","Triggers a global alert upon completion"]
+		"Triggers a global alert upon build start","Triggers a global alert upon completion"],
+		"quote": "'' - Unknown"
 	},
 	{
 		"name": "Project Hyphae",
@@ -36,16 +38,18 @@
 
 			"Comment [Start an unbeatable and debilitating pandemic.]",
 			
-		"Triggers a global alert upon build start","Triggers a global alert upon completion"]
+		"Triggers a global alert upon build start","Triggers a global alert upon completion"],
+		"quote": "'The only cure is extinction' - Unknown"
 	},
 	{
-		"name": "Activate Project Hyphae",
+		"name": "Unleash Project Hyphae",
 		"isWonder": true
 		"uniques": [
 			"Cannot be hurried", "Unsellable",
 			"Cannot be purchased", "Limited to [1] per Civilization",
 			"Only available <if [Project Hyphae] is constructed>",
-			"Triggers a global alert upon completion"]
+			"Triggers a global alert upon completion"],
+		"quote": "'Rotting, bloated corpses dot the streets. I will soon join them.' - Unknown"
 	},
 	{
 		"name": "Missilology Institute",
@@ -53,6 +57,8 @@
 		"happiness": 2,
 		"production": 2,
 		"maintenance": 2,
+		"specialistSlots": {"Missilologist": 3},
+		"greatPersonPoints": {"Great Missilologist": 3},
 		"cost": 500,
 		"uniques": [
 			"Can only be built <after adopting [The Study of Missilology]>",
