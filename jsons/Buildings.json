@@ -1,38 +1,41 @@
 [
 	{
 		"name": "Project Sundial",
-		"isNationalWonder": true
+		"isWonder": true
 		"cost": 2400,
 		"requiredTech": "Nuclear Fusion",
 		"uniques": [
-			"Cannot be hurried", "Unsellable",
+			"Cannot be hurried", "Unsellable", "Only available <in [Capital] cities>",
 			"Cannot be purchased", "Limited to [1] per Civilization",
+			
 			"Free [Gnomon] appears",
-			"Only available <in [Capital] cities>",
+
 		"Triggers a global alert upon build start","Triggers a global alert upon completion"]
 	},
 	{
 		"name": "Project Beehive",
-		"isNationalWonder": true
+		"isWonder": true
 		"cost": 2400,
 		"requiredTech": "Nanotechnology",
 		"uniques": [
-			"Cannot be hurried", "Unsellable",
+			"Cannot be hurried", "Unsellable", "Only available <in [Capital] cities>",
 			"Cannot be purchased", "Limited to [1] per Civilization",
+			
 			"Free [The Swarm] appears",
-			"Only available <in [Capital] cities>",
-		        "Free [The Swarm] appears <upon declaring war with a major Civilization>",
+
 		"Triggers a global alert upon build start","Triggers a global alert upon completion"]
 	},
 	{
 		"name": "Project Hyphae",
-		"isNationalWonder": true
+		"isWonder": true
 		"cost": 2400,
 		"requiredTech": "Globalization",
 		"uniques": [
-			"Cannot be hurried", "Unsellable",
+			"Cannot be hurried", "Unsellable", "Only available <in [Capital] cities>",
 			"Cannot be purchased", "Limited to [1] per Civilization",
-			"Only available <in [Capital] cities>",
+
+			"Comment [Start an unbeatable and debilitating pandemic.]",
+			
 		"Triggers a global alert upon build start","Triggers a global alert upon completion"]
 	},
 	{
@@ -43,7 +46,6 @@
 			"Cannot be hurried", "Unsellable",
 			"Cannot be purchased", "Limited to [1] per Civilization",
 			"Only available <if [Project Hyphae] is constructed>",
-			"Adopt [Pandemic Management] <for [Major] Civilizations>",
 			"Triggers a global alert upon completion"]
 	},
 	{
