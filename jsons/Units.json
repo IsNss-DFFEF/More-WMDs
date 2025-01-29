@@ -113,8 +113,8 @@
 	"cost": 400,
 	"requiredTech": "Nanotechnology",
         "uniques": [
-		"Only available <if [Project Beehive] is constructed>",
-		"Unsellable", "Cost increases by [75] when built",
+		"Only available <if [Project Fractal] is constructed>",
+		"Unsellable", "Cannot be Purchased",
 		"[3] free [The Swarm] units appear <upon conquering a city>",
 		"Free [The Swarm] appears <upon defeating a [All] unit>",
 		],
