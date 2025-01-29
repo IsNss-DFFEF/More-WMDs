@@ -1,6 +1,6 @@
 [
   {
-        "name": "Gnomon",
+        "name": "The Gnomon",
         "unitType": "Backyard Nuke",
         "movement": 1,
         "strength": 1200,
@@ -8,10 +8,10 @@
         "range": 2,
         "cost": 1,
         "uniques": [
-		"Nuclear weapon of Strength [4]",
+		"Nuclear weapon of Strength [6]",
 		"Unbuildable","Unsellable",
 		"Cannot be purchased",
-		"Blast radius [120]",
+		"Blast radius [1200]",
 		"Consumes [6] [Uranium]"],
         "attackSound": "nuke"
     }, 
