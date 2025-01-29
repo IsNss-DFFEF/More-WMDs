@@ -2,7 +2,7 @@
 	{
 		"name": "Project Sundial",
 		"isNationalWonder": true
-		"cost": 24000,
+		"cost": 2400,
 		"requiredTech": "Nuclear Fusion",
 		"uniques": [
 			"Cannot be hurried", "Unsellable",
@@ -14,7 +14,7 @@
 	{
 		"name": "Project Beehive",
 		"isNationalWonder": true
-		"cost": 24000,
+		"cost": 2400,
 		"requiredTech": "Nanotechnology",
 		"uniques": [
 			"Cannot be hurried", "Unsellable",
@@ -27,7 +27,7 @@
 	{
 		"name": "Project Hyphae",
 		"isNationalWonder": true
-		"cost": 24000,
+		"cost": 2400,
 		"requiredTech": "Globalization",
 		"uniques": [
 			"Cannot be hurried", "Unsellable",
