@@ -40,7 +40,7 @@
 	},
 	{
 		"name": "Activate Project Hyphae",
-		"isNationalWonder": true
+		"isWonder": true
 		"uniques": [
 			"Cannot be hurried", "Unsellable",
 			"Cannot be purchased", "Limited to [1] per Civilization",
@@ -48,15 +48,14 @@
 			"Triggers a global alert upon completion"]
 	},
 	{
-		"name": "Ode to Missile",
-		"culture": 2,
-		"faith": 2,
+		"name": "Missilology Institute",
+		"science": 2,
 		"happiness": 2,
 		"production": 2,
 		"maintenance": 2,
 		"cost": 500,
 		"uniques": [
-			"Can only be built <after adopting [Ode to Missile]>",
+			"Can only be built <after adopting [The Study of Missilology]>",
 			"Comment [+25% Production when constructing Missile units]"
 		]
 	},
