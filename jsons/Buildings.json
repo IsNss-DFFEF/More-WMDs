@@ -14,7 +14,7 @@
 		"quote": "'The sun has set on the human race' - Unknown"
 	},
 	{
-		"name": "Project Locust",
+		"name": "Project Fractal",
 		"isWonder": true
 		"cost": 2400,
 		"requiredTech": "Nanotechnology",
@@ -25,7 +25,7 @@
 			"Free [The Swarm] appears",
 
 		"Triggers a global alert upon build start","Triggers a global alert upon completion"],
-		"quote": "'' - Unknown"
+		"quote": "'All that lives, dies.' - Unknown"
 	},
 	{
 		"name": "Project Hyphae",
