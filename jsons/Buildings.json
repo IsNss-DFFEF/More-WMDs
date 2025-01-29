@@ -29,10 +29,11 @@
 		"name": "Project Hyphae",
 		"isWonder": true
 		"cost": 2400,
-		"requiredTech": "Globalization",
 		"uniques": [
 			"Cannot be hurried", "Unsellable", "Only available <in [Capital] cities>",
 			"Cannot be purchased", "Limited to [1] per Civilization",
+			"Only available <after discovering [Globalization]> <if [Future Expansion Continued] is not enabled>",
+			"Only available <after discovering [Metagenetics]> <if [Future Expansion Continued] is enabled>",
 
 			"Comment [Start an unbeatable and debilitating pandemic.]",
 			
