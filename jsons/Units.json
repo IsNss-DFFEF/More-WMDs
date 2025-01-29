@@ -85,7 +85,8 @@
 		"Nuclear weapon of Strength [4]",
 		"Blast radius [2]",
 		"Consumes [1] [Uranium]",
-	"Only available <if [Manhattan Project] is constructed>"],
+		"Only available <if [Manhattan Project] is constructed> <if [Future Expansion Continued] is not enabled>", 
+		"Only available <if [Nuclear Testing Site] is constructed> <if [Future Expansion Continued] is enabled>"],
         "attackSound": "nuke"
     }, 
 	{	        "name": "Radiological Dispersment Device",
@@ -100,7 +101,8 @@
 		"Nuclear weapon of Strength [0]",
 		"Blast radius [2]",
 		"Consumes [1] [Uranium]",
-	"Only available <if [Manhattan Project] is constructed>"],
+		"Only available <if [Manhattan Project] is constructed> <if [Future Expansion Continued] is not enabled>", 
+		"Only available <if [Nuclear Testing Site] is constructed> <if [Future Expansion Continued] is enabled>"],
         "attackSound": "fire"
     }, 
 {	"name": "Tactical Nuke",
@@ -115,7 +117,8 @@
 		"Nuclear weapon of Strength [2]",
 		"Blast radius [1]",
 		"Consumes [1] [Uranium]",
-	"Only available <if [Manhattan Project] is constructed>"],
+		"Only available <if [Manhattan Project] is constructed> <if [Future Expansion Continued] is not enabled>", 
+		"Only available <if [Nuclear Testing Site] is constructed> <if [Future Expansion Continued] is enabled>"],
         "attackSound": "nuke"
     }, 
 {	"name": "Intercontinental Ballistic Missile",
@@ -130,7 +133,8 @@
 		"Nuclear weapon of Strength [3]",
 		"Blast radius [2]",
 		"Consumes [2] [Uranium]",
-	"Only available <if [Manhattan Project] is constructed>"],
+		"Only available <if [Manhattan Project] is constructed> <if [Future Expansion Continued] is not enabled>", 
+		"Only available <if [Nuclear Testing Site] is constructed> <if [Future Expansion Continued] is enabled>"],
         "attackSound": "nuke"
     }, 
 	
@@ -170,7 +174,9 @@
 		"requiredTech": "Nuclear Fission",
 		"requiredResource": "Uranium",
 		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit", "Self-destructs when attacking",
-		"Nuclear weapon of Strength [1]", "Only available <if [Manhattan Project] is constructed>", "Blast radius [1]", "[+500]% strength <when attacking>"],
+		"Nuclear weapon of Strength [1]", "Blast radius [1]", "[+500]% strength <when attacking>",
+		"Only available <if [Manhattan Project] is constructed> <if [Future Expansion Continued] is not enabled>", 
+		"Only available <if [Nuclear Testing Site] is constructed> <if [Future Expansion Continued] is enabled>"],
 		"attackSound": "nuke"
 	},
 	{
@@ -182,7 +188,9 @@
 		"requiredTech": "Nuclear Fission",
 		"requiredResource": "Uranium",
 		"uniques": ["Never appears as a Barbarian unit", "Self-destructs when attacking",
-		"Nuclear weapon of Strength [1]", "Only available <if [Manhattan Project] is constructed>", "Blast radius [1]", "[+500]% strength <when attacking>"],
+		"Nuclear weapon of Strength [1]", "Blast radius [1]", "[+500]% strength <when attacking>",
+		"Only available <if [Manhattan Project] is constructed> <if [Future Expansion Continued] is not enabled>", 
+		"Only available <if [Nuclear Testing Site] is constructed> <if [Future Expansion Continued] is enabled>"],
 		"attackSound": "nuke"
 	},
 		{
@@ -199,25 +207,7 @@
 		"Can transform to [Tactical Nuke] <hidden from users>",
 		"Can transform to [Intercontinental Ballistic Missile] <hidden from users>",
 		"Comment [Can transform into any Missile unit]"]
-		},
-		{
-		"name": "Military Architect",
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 450,
-		"requiredTech": "Advanced Ballistics",
-		"uniques": ["Can transform to [Missile Silo] <[3] times> <after which this unit is consumed>", "Can pass through impassable tiles"]
-	},
-			{
-		"name": "Missile Silo",
-		"unitType": "Civilian",
-		"movement": 0,
-		"requiredResource": "Aluminum",
-		"uniques": ["Unbuildable","Cannot be Purchased","Invisible to non-adjacent units",
-			"Can carry [6] [Missile] units","No Sight","Cannot Move",
-			"Can pass through impassable tiles",
-			"[This Unit] heals [100] HP <every [1] turns>"]
-	},
+		}
 	//Base game units
 		{
 		"name": "Guided Missile",
