@@ -27,34 +27,6 @@
         "uniques": ["Cannot be hurried","Unsellable","Cannot be purchased","Consumes [1] [Aluminum]"],
         "attackSound": "nuke"
     }, 
-{
-        "name": "Orbital Strike Cannon",
-        "unitType": "Satellite",
-        "movement": 12,
-        "strength": 60,
-        "cost": 1200,
-        "requiredTech": "Satellites",
-        "uniques": [
-		"Unsellable","Cannot be purchased",
-		"Limited to [3] per Civilization",
-		"Consumes [2] [Aluminum]", "Consumes [1] [Uranium]","Only available <if [Manhattan Project] is constructed>",
-		"Can carry [3] [Orbital Strike] units"],
-    }, 
-	    {
-        "name": "Orbital Strike",
-        "unitType": "Orbital Strike",
-        "movement": 1,
-        "strength": 600,
-        "rangedStrength": 600,
-        "range": 12,
-        "cost": 600,
-        "requiredTech": "Lasers",
-        "uniques": ["Cannot be hurried","Unsellable","Cannot be purchased", "Only available <if [Manhattan Project] is constructed>",
-		"Nuclear weapon of Strength [3]",
-		"Blast radius [3]",
-		"Consumes [3] [Uranium]"],
-        "attackSound": "nuke"
-    }, 
   	{
 		"name": "Landkreuzer P. 1000 Ratte",
 		"unitType": "Landkreuzer",
@@ -62,7 +34,7 @@
 		"strength": 400,
 		"rangedStrength": 400,
 		"range": 3,
-		"cost": 4000,
+		"cost": 2000,
 		"requiredTech": "Robotics",
 		"uniques": [
 			"Can move after attacking", "Cannot be purchased",
