@@ -148,7 +148,7 @@
 		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit", "Self-destructs when attacking",
 		"Nuclear weapon of Strength [1]", "Blast radius [1]", "[+500]% strength <when attacking>",
 		"Only available <if [Manhattan Project] is constructed>", 
-		"Only available <if [Nuclear Testing Site] is constructed> <if [Future Expansion Continued] is enabled>",
+		"Only available <if [Nuclear Testing Site] is constructed> <if [Future Expansion Continued] is enabled>"],
 		"attackSound": "nuke"
 	},
 	{
