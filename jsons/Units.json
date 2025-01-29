@@ -57,8 +57,8 @@
 		"Nuclear weapon of Strength [4]",
 		"Blast radius [2]",
 		"Consumes [1] [Uranium]",
-		"Only available <if [Manhattan Project] is constructed> <if [Future Expansion Continued] is not enabled>", 
-		"Only available <if [Nuclear Testing Site] is constructed>"],
+		"Only available <if [Manhattan Project] is constructed>", 
+		"Only available <if [Nuclear Testing Site] is constructed> <if [Future Expansion Continued] is enabled>"],
         "attackSound": "nuke"
     }, 
 	{	        "name": "Radiological Dispersment Device",
@@ -73,8 +73,8 @@
 		"Nuclear weapon of Strength [0]",
 		"Blast radius [2]",
 		"Consumes [1] [Uranium]",
-		"Only available <if [Manhattan Project] is constructed> <if [Future Expansion Continued] is not enabled>", 
-		"Only available <if [Nuclear Testing Site] is constructed>"],
+		"Only available <if [Manhattan Project] is constructed>", 
+		"Only available <if [Nuclear Testing Site] is constructed> <if [Future Expansion Continued] is enabled>"],
         "attackSound": "fire"
     }, 
 {	"name": "Tactical Nuke",
@@ -89,8 +89,8 @@
 		"Nuclear weapon of Strength [2]",
 		"Blast radius [1]",
 		"Consumes [1] [Uranium]",
-		"Only available <if [Manhattan Project] is constructed> <if [Future Expansion Continued] is not enabled>", 
-		"Only available <if [Nuclear Testing Site] is constructed>"],
+		"Only available <if [Manhattan Project] is constructed>", 
+		"Only available <if [Nuclear Testing Site] is constructed> <if [Future Expansion Continued] is enabled>"],
         "attackSound": "nuke"
     }, 
 {	"name": "Intercontinental Ballistic Missile",
@@ -105,8 +105,8 @@
 		"Nuclear weapon of Strength [3]",
 		"Blast radius [2]",
 		"Consumes [3] [Uranium]",
-		"Only available <if [Manhattan Project] is constructed> <if [Future Expansion Continued] is not enabled>", 
-		"Only available <if [Nuclear Testing Site] is constructed>"],
+		"Only available <if [Manhattan Project] is constructed>", 
+		"Only available <if [Nuclear Testing Site] is constructed> <if [Future Expansion Continued] is enabled>"],
         "attackSound": "nuke"
     }, 
 	
@@ -147,8 +147,8 @@
 		"requiredResource": "Uranium",
 		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit", "Self-destructs when attacking",
 		"Nuclear weapon of Strength [1]", "Blast radius [1]", "[+500]% strength <when attacking>",
-		"Only available <if [Manhattan Project] is constructed> <if [Future Expansion Continued] is not enabled>", 
-		"Only available <if [Nuclear Testing Site] is constructed>"],
+		"Only available <if [Manhattan Project] is constructed>", 
+		"Only available <if [Nuclear Testing Site] is constructed> <if [Future Expansion Continued] is enabled>",
 		"attackSound": "nuke"
 	},
 	{
@@ -161,8 +161,8 @@
 		"requiredResource": "Uranium",
 		"uniques": ["Never appears as a Barbarian unit", "Self-destructs when attacking",
 		"Nuclear weapon of Strength [1]", "Blast radius [1]", "[+500]% strength <when attacking>",
-		"Only available <if [Manhattan Project] is constructed> <if [Future Expansion Continued] is not enabled>", 
-		"Only available <if [Nuclear Testing Site] is constructed>"],
+		"Only available <if [Manhattan Project] is constructed>", 
+		"Only available <if [Nuclear Testing Site] is constructed> <if [Future Expansion Continued] is enabled>"],
 		"attackSound": "nuke"
 	},
 		{
