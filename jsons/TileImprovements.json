@@ -1,4 +1,5 @@
-	{
+[
+{
 		"name": "Missile Silo",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 4,
@@ -9,3 +10,4 @@
       
       "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
 	}
+]
