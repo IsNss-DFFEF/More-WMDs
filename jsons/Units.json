@@ -31,10 +31,10 @@
 		"name": "Landkreuzer P. 1000 Ratte",
 		"unitType": "Landkreuzer",
 		"movement": 3,
-		"strength": 400,
-		"rangedStrength": 400,
+		"strength": 200,
+		"rangedStrength": 100,
 		"range": 3,
-		"cost": 2000,
+		"cost": 1500,
 		"requiredTech": "Robotics",
 		"uniques": [
 			"Can move after attacking", "Cannot be purchased",
