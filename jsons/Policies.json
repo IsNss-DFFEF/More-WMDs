@@ -41,7 +41,7 @@
             {
                 "name": "True Missilocracy",
                 "uniques": [
-                    "[+1 Happiness, +1 Culture, +1 Faith] [in all cities] per every [3] [Missile]",
+                    "[+1 Happiness, +1 Culture, +1 Faith] [in all cities] per every [6] [Missile]",
                     "[+5 Happiness, +3 Culture, +3 Faith, +5 Production, +5 Science] from all [Manhattan Project] buildings",
                     "Comment [+2 Faith and +2 Culture from every Missile Silo]",
                     "Comment [+2 Faith and +2 Culture from every Missilology Institute within 3 tiles from a Missile Silo."
@@ -53,7 +53,7 @@
             {
                 "name": "Missilocracy Complete",
                 "uniques": [
-                "[2] free [Free Missile] units appear"
+                "[2] free [Great Missilologist] units appear"
                 ]
             }
         ]
