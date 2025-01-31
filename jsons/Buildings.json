@@ -63,7 +63,7 @@
 		"uniques": [
 			"Can only be built <after adopting [The Study of Missilology]>",
 			"Comment [+25% Production when constructing Missile units]",
-			"[+2 Faith, +2 Culture] <within [3] tiles of a [Missile Silo] <after adopting [True Missilocracy]>"
+			"[+2 Faith, +2 Culture] <within [3] tiles of a [Missile Silo]> <after adopting [True Missilocracy]>"
 		]
 	},
 ]
