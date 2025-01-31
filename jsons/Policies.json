@@ -15,7 +15,7 @@
                 "column": 1
             },
             {
-                "name": "Homing Aim",
+                "name": "Homing Missiles",
                 "uniques": [
                     "[+12] Air Interception Range <for [Guided Missile] units>",
                     "Comment [Guided Missiles and Mobile SAMs can intercept missiles, Guided Missiles can now also intercept most aircraft]"
@@ -47,7 +47,7 @@
                     "Comment [+2 Faith and +2 Culture from every Missile Silo]",
                     "Comment [+2 Faith and +2 Culture from every Missilology Institute within 3 tiles from a Missile Silo."
                 ],
-                "requires": ["Hypersonic Missiles", "Homing Aim", "The Study of Missilology", "Arsenal of Democracy"],
+                "requires": ["Hypersonic Missiles", "Homing Missiles", "The Study of Missilology", "Arsenal of Democracy"],
                 "row": 3,
                 "column": 3
             },
