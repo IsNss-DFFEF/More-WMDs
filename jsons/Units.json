@@ -133,6 +133,19 @@
 		"uniques": ["Destroys tile improvements when attacking"],
 		"attackSound": "fire"
 	},
+		{
+		"name": "Flying Laser Pig",
+		"unitType": "Ranged Gunpowder",
+		"movement": 4,
+		"strength": 80,
+		"rangedStrength": 100,
+		"range": 2,
+		"cost": 800,
+		"requiredTech": "Future Tech",
+		"requiredResource": "Uranium",
+		"uniques": ["Destroys tile improvements when attacking"],
+		"attackSound": "fire"
+	},
 	{
 		"name": "Nuke on a Truck",
 		"unitType": "Armored",
