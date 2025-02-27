@@ -2,7 +2,7 @@
 	{
 		"name": "Project Sundial",
 		"isWonder": true
-		"cost": 2400,
+		"cost": 1800,
 		"requiredTech": "Nuclear Fusion",
 		"uniques": [
 			"Cannot be hurried", "Unsellable", "Only available <in [Capital] cities>",
@@ -16,7 +16,7 @@
 	{
 		"name": "Project Fractal",
 		"isWonder": true
-		"cost": 2400,
+		"cost": 1800,
 		"requiredTech": "Nanotechnology",
 		"uniques": [
 			"Cannot be hurried", "Unsellable", "Only available <in [Capital] cities>",
@@ -25,12 +25,12 @@
 			"Free [The Swarm] appears",
 
 		"Triggers a global alert upon build start","Triggers a global alert upon completion"],
-		"quote": "'All that lives, dies.' - Unknown"
+		"quote": "'All that lives, turns to dust.' - Unknown"
 	},
 	{
 		"name": "Project Hyphae",
 		"isWonder": true
-		"cost": 2400,
+		"cost": 1800,
 		"requiredTech": "Globalization",
 		"uniques": [
 			"Cannot be hurried", "Unsellable", "Only available <in [Capital] cities>",
