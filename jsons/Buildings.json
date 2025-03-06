@@ -50,20 +50,5 @@
 			"Only available <if [Project Hyphae] is constructed>",
 			"Triggers a global alert upon completion"],
 		"quote": "'Rotting, bloated corpses dot the streets. I will soon join them.' - Unknown"
-	},
-	{
-		"name": "Missilology Institute",
-		"science": 2,
-		"happiness": 2,
-		"production": 2,
-		"maintenance": 2,
-		"specialistSlots": {"Missilologist": 3},
-		"greatPersonPoints": {"Great Missilologist": 3},
-		"cost": 500,
-		"uniques": [
-			"Can only be built <after adopting [The Study of Missilology]>",
-			"Comment [+25% Production when constructing Missile units]",
-			"[+2 Faith, +2 Culture] <within [3] tiles of a [Missile Silo]> <after adopting [True Missilocracy]>"
-		]
-	},
+	}
 ]
