@@ -1,9 +1,0 @@
-[
-	{
-		"name": "Missile",
-		"resourceType": "Strategic",
-		"uniques": [
-      "Doesn't generate naturally","Excluded from map editor","Cannot be traded"
-    ]
-	},
-]
