@@ -1,4 +1,5 @@
 [
+	//Nukes
   {
         "name": "The Gnomon",
         "unitType": "Backyard Nuke",
@@ -75,7 +76,7 @@
 		"Only available <if [Manhattan Project] is constructed>"],
         "attackSound": "nuke"
     }, 
-	
+	//Non-nukes
 {	"name": "The Swarm",
         "unitType": "Swarm",
         "movement": 6,
@@ -89,20 +90,7 @@
 		"Free [The Swarm] appears <upon defeating a [All] unit>",
 		],
         "attackSound": "fire"
-    }, 
-	{
-		"name": "Napalm Bomber",
-		"unitType": "Bomber",
-		"movement": 1,
-		"strength": 65,
-		"rangedStrength": 65,
-		"range": 10,
-		"cost": 400,
-		"requiredTech": "Radar",
-		"requiredResource": "Oil",
-		"uniques": ["Destroys tile improvements when attacking"],
-		"attackSound": "fire"
-	},
+    },
 		{
 		"name": "Flying Laser Pig",
 		"unitType": "Satellite",
@@ -157,7 +145,9 @@
 			"Can move after attacking", "Cannot be purchased",
 			"Consumes [4] [Oil]", "Consumes [2] [Aluminum]", "Consumes [2] [Iron]",
 			"Ignores zone of control", "[2] additional attacks per turn",
-			"Ranged attacks may be performed over obstacles", "Can see over obstacles",
+			"Ranged attacks may be performed over obstacles",
+			"[+20] Air Interception Range","[2] extra interceptions may be made per turn",
+			"[-60]% Damage when intercepting"
 			],
 		"attackSound": "tankshot"
 	  }
