@@ -80,20 +80,28 @@
 {	"name": "The Swarm",
         "unitType": "Swarm",
         "movement": 6,
-        "strength": 50,
+        "strength": 40,
 	"cost": 400,
 	"requiredTech": "Nanotechnology",
         "uniques": [
 		"Only available <if [Project Fractal] is constructed>",
 		"Unsellable", "Cannot be Purchased",
-		"[3] free [The Swarm] units appear <upon conquering a city>",
-		"Free [The Swarm] appears <upon defeating a [All] unit>",
+		"Comment [Upon conquering a city, 40% chance 2 The Swarm units appear.]",
+		"Comment [Upon conquering a city, 30% chance 3 The Swarm units appear.]",
+		"Comment [Upon conquering a city, 20% chance 4 The Swarm units appear.]",
+		"Comment [Upon conquering a city, 10% chance 5 The Swarm units appear.]",
+		"[2] free [The Swarm] units appear <upon conquering a city> <with [40]% chance>",
+		"[3] free [The Swarm] units appear <upon conquering a city> <with [30]% chance>",
+		"[4] free [The Swarm] units appear <upon conquering a city> <with [20]% chance>",
+		"[5] free [The Swarm] units appear <upon conquering a city> <with [10]% chance>",
+		"Free [The Swarm] appears <upon defeating a [All] unit> <with [30]% chance>",
+		"Free [The Swarm] appears <upon being defeated> <with [15]% chance>"
 		],
         "attackSound": "fire"
     },
 		{
 		"name": "Flying Laser Pig",
-		"unitType": "Satellite",
+		"unitType": "Lasers",
 		"movement": 4,
 		"strength": 80,
 		"rangedStrength": 100,
@@ -112,7 +120,7 @@
 		"rangedStrength": 80,
 		"range": 8,
 		"cost": 1200,
-		"requiredTech": "Future Tech",
+		"requiredTech": "Satellites",
 		"requiredResource": "Uranium",
 		"uniques": ["Destroys tile improvements when attacking",
 		"Nuclear weapon of Strength [2]",
@@ -150,5 +158,5 @@
 			"[-60]% Damage when intercepting"
 			],
 		"attackSound": "tankshot"
-	  }
+	  },
 ]
