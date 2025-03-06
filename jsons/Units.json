@@ -135,7 +135,7 @@
 	},
 		{
 		"name": "Flying Laser Pig",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Satellite",
 		"movement": 4,
 		"strength": 80,
 		"rangedStrength": 100,
