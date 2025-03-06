@@ -15,36 +15,6 @@
 		"Consumes [6] [Uranium]"],
         "attackSound": "nuke"
     }, 
-    {
-        "name": "Massive Ordnance Air Blast",
-        "unitType": "Missile",
-        "movement": 1,
-        "strength": 300,
-        "rangedStrength": 300,
-        "range": 12,
-        "cost": 1000,
-        "requiredTech": "Satellites",
-        "uniques": ["Cannot be hurried","Unsellable","Cannot be purchased","Consumes [1] [Aluminum]"],
-        "attackSound": "nuke"
-    }, 
-  	{
-		"name": "Landkreuzer P. 1000 Ratte",
-		"unitType": "Landkreuzer",
-		"movement": 3,
-		"strength": 200,
-		"rangedStrength": 100,
-		"range": 3,
-		"cost": 1500,
-		"requiredTech": "Robotics",
-		"uniques": [
-			"Can move after attacking", "Cannot be purchased",
-			"Consumes [4] [Oil]", "Consumes [2] [Aluminum]", "Consumes [2] [Iron]",
-			"Ignores zone of control", "[2] additional attacks per turn",
-			"Ranged attacks may be performed over obstacles", "Can see over obstacles",
-			],
-		"attackSound": "tankshot"
-	  },
-
 {	        "name": "Cobalt Bomb",
         "unitType": "Missile",
         "movement": 1,
@@ -146,32 +116,51 @@
 		"uniques": ["Destroys tile improvements when attacking"],
 		"attackSound": "fire"
 	},
-	{
-		"name": "Nuke on a Truck",
-		"unitType": "Armored",
-		"movement": 4,
-		"strength": 60,
-		"cost": 600,
-		"requiredTech": "Nuclear Fission",
-		"requiredResource": "Uranium",
-		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit", "Self-destructs when attacking",
-		"Nuclear weapon of Strength [1]", "Blast radius [1]", "[+500]% strength <when attacking>",
-		"Only available <if [Manhattan Project] is constructed>"],
-		"attackSound": "nuke"
-	},
-	{
-		"name": "Nuke on a Boat",
-		"unitType": "WaterMelee",
+			{
+		"name": "Archimedes' Heat Ray",
+		"unitType": "Satellite",
 		"movement": 8,
-		"strength": 60,
-		"cost": 600,
-		"requiredTech": "Nuclear Fission",
+		"strength": 40,
+		"rangedStrength": 80,
+		"range": 8,
+		"cost": 800,
+		"requiredTech": "Future Tech",
 		"requiredResource": "Uranium",
-		"uniques": ["Never appears as a Barbarian unit", "Self-destructs when attacking",
-		"Nuclear weapon of Strength [1]", "Blast radius [1]", "[+500]% strength <when attacking>",
-		"Only available <if [Manhattan Project] is constructed>"],
-		"attackSound": "nuke"
+		"uniques": ["Destroys tile improvements when attacking",
+		"Nuclear weapon of Strength [2]",
+		"Blast radius [0]",
+		"Consumes [2] [Aluminum]",],
+		"attackSound": "fire"
 	},
+	    {
+        "name": "Massive Ordnance Air Blast",
+        "unitType": "Missile",
+        "movement": 1,
+        "strength": 300,
+        "rangedStrength": 300,
+        "range": 12,
+        "cost": 1000,
+        "requiredTech": "Satellites",
+        "uniques": ["Cannot be hurried","Unsellable","Cannot be purchased","Consumes [1] [Aluminum]"],
+        "attackSound": "nuke"
+    }, 
+  	{
+		"name": "Landkreuzer P. 1000 Ratte",
+		"unitType": "Landkreuzer",
+		"movement": 3,
+		"strength": 200,
+		"rangedStrength": 100,
+		"range": 3,
+		"cost": 1500,
+		"requiredTech": "Robotics",
+		"uniques": [
+			"Can move after attacking", "Cannot be purchased",
+			"Consumes [4] [Oil]", "Consumes [2] [Aluminum]", "Consumes [2] [Iron]",
+			"Ignores zone of control", "[2] additional attacks per turn",
+			"Ranged attacks may be performed over obstacles", "Can see over obstacles",
+			],
+		"attackSound": "tankshot"
+	  },
 		{
 		"name": "Free Missile",
 		"unitType": "Civilian",
