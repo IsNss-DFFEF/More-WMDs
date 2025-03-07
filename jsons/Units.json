@@ -117,14 +117,11 @@
 		"unitType": "Satellite",
 		"movement": 8,
 		"strength": 40,
-		"rangedStrength": 80,
+		"rangedStrength": 200,
 		"range": 8,
 		"cost": 1200,
-		"requiredTech": "Satellites",
-		"requiredResource": "Uranium",
+		"requiredTech": "Satellites"
 		"uniques": ["Destroys tile improvements when attacking",
-		"Nuclear weapon of Strength [2]",
-		"Blast radius [0]",
 		"Consumes [2] [Aluminum]",],
 		"attackSound": "fire"
 	},
