@@ -80,21 +80,21 @@
 {	"name": "The Swarm",
         "unitType": "Swarm",
         "movement": 6,
-        "strength": 40,
+        "strength": 60,
 	"cost": 400,
 	"requiredTech": "Nanotechnology",
         "uniques": [
 		"Only available <if [Project Fractal] is constructed>",
-		"Unsellable", "Cannot be Purchased",
+		"Cannot be Purchased",
 		"Comment [Upon conquering a city, 40% chance 2 The Swarm units appear.]",
 		"Comment [Upon conquering a city, 30% chance 3 The Swarm units appear.]",
 		"Comment [Upon conquering a city, 20% chance 4 The Swarm units appear.]",
 		"Comment [Upon conquering a city, 10% chance 5 The Swarm units appear.]",
-		"[2] free [The Swarm] units appear <upon conquering a city> <with [40]% chance>",
-		"[3] free [The Swarm] units appear <upon conquering a city> <with [30]% chance>",
-		"[4] free [The Swarm] units appear <upon conquering a city> <with [20]% chance>",
-		"[5] free [The Swarm] units appear <upon conquering a city> <with [10]% chance>",
-		"Free [The Swarm] appears <upon defeating a [All] unit> <with [30]% chance>",
+		"[2] free [The Swarm] units appear <upon conquering a city> <hidden from users>",
+		"[1] free [The Swarm] units appear <upon conquering a city> <with [30]% chance> <hidden from users>",
+		"[1] free [The Swarm] units appear <upon conquering a city> <with [20]% chance> <hidden from users>",
+		"[1] free [The Swarm] units appear <upon conquering a city> <with [10]% chance> <hidden from users>",
+		"Free [The Swarm] appears <upon defeating a [All] unit> <with [90]% chance>",
 		"Free [The Swarm] appears <upon being defeated> <with [15]% chance>"
 		],
         "attackSound": "fire"
@@ -113,11 +113,11 @@
 		"attackSound": "fire"
 	},
 			{
-		"name": "Archimedes' Heat Ray",
+		"name": "Archimedes' Death Ray",
 		"unitType": "Satellite",
 		"movement": 8,
-		"strength": 40,
-		"rangedStrength": 200,
+		"strength": 80,
+		"rangedStrength": 600,
 		"range": 8,
 		"cost": 1200,
 		"requiredTech": "Satellites"
@@ -129,12 +129,12 @@
         "name": "Massive Ordnance Air Blast",
         "unitType": "Missile",
         "movement": 1,
-        "strength": 300,
-        "rangedStrength": 300,
+        "strength": 600,
+        "rangedStrength": 600,
         "range": 12,
         "cost": 800,
         "requiredTech": "Satellites",
-        "uniques": ["Cannot be hurried","Unsellable","Cannot be purchased","Consumes [1] [Aluminum]"],
+        "uniques": ["Consumes [2] [Aluminum]"],
         "attackSound": "nuke"
     }, 
   	{
@@ -151,7 +151,7 @@
 			"Consumes [4] [Oil]", "Consumes [2] [Aluminum]", "Consumes [2] [Iron]",
 			"Ignores zone of control", "[2] additional attacks per turn",
 			"Ranged attacks may be performed over obstacles",
-			"[+20] Air Interception Range","[2] extra interceptions may be made per turn",
+			"[+8] Air Interception Range","[2] extra interceptions may be made per turn",
 			"[-60]% Damage when intercepting"
 			],
 		"attackSound": "tankshot"
