@@ -101,13 +101,13 @@
     },
 		{
 		"name": "Flying Laser Pig",
-		"unitType": "Lasers",
+		"unitType": "Satellite",
 		"movement": 4,
 		"strength": 80,
 		"rangedStrength": 100,
 		"range": 2,
 		"cost": 600,
-		"requiredTech": "Future Tech",
+		"requiredTech": "Lasers",
 		"requiredResource": "Uranium",
 		"uniques": ["Destroys tile improvements when attacking"],
 		"attackSound": "fire"
