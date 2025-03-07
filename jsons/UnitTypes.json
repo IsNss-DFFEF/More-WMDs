@@ -25,7 +25,6 @@
         "movementType": "Land"
 	"uniques": [
 		"Can see over obstacles",
-		"Cannot attack",
 		"[10] Sight",
 		"All tiles cost 1 movement",
 		"Can pass through impassable tiles",
