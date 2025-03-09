@@ -76,7 +76,7 @@
 		"Only available <if [Manhattan Project] is constructed>"],
         "attackSound": "nuke"
     }, 
-	//Non-nukes
+	//Inorganic
 {	"name": "The Swarm",
         "unitType": "Swarm",
         "movement": 6,
@@ -99,19 +99,6 @@
 		],
         "attackSound": "fire"
     },
-		{
-		"name": "Flying Laser Pig",
-		"unitType": "Satellite",
-		"movement": 4,
-		"strength": 80,
-		"rangedStrength": 100,
-		"range": 2,
-		"cost": 600,
-		"requiredTech": "Lasers",
-		"requiredResource": "Uranium",
-		"uniques": ["Destroys tile improvements when attacking"],
-		"attackSound": "fire"
-	},
 			{
 		"name": "Archimedes' Death Ray",
 		"unitType": "Satellite",
@@ -156,4 +143,29 @@
 			],
 		"attackSound": "tankshot"
 	  },
+	//Organic
+	{
+		"name": "Flying Laser Pig",
+		"unitType": "Satellite",
+		"movement": 4,
+		"strength": 80,
+		"rangedStrength": 100,
+		"range": 2,
+		"cost": 600,
+		"requiredTech": "Lasers",
+		"requiredResource": "Uranium",
+		"uniques": ["Destroys tile improvements when attacking"],
+		"attackSound": "fire"
+	},
+	{
+		"name": "Giant Enemy Spider",
+		"unitType": "Gunpowder",
+		"movement": 6,
+		"strength": 60,
+		"cost": 800,
+		"requiredTech": "Stealth",
+		"requiredResource": "Oil",
+		"uniques": ["Destroys tile improvements when attacking"],
+		"attackSound": "fire"
+	},
 ]
