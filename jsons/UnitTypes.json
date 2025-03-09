@@ -31,7 +31,7 @@
 		"May travel on Water tiles without embarking",
 		"Ignores zone of control",
 		"May enter foreign tiles without open borders",
-	        "Never appears as a barbarian unit"]
+	        "Never appears as a Barbarian unit"]
 },
     {
         "name": "Backyard Nuke",
