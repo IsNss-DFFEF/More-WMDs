@@ -33,6 +33,11 @@
 		"May enter foreign tiles without open borders",
 	        "Never appears as a Barbarian unit"]
 },
+	{	        "name": "Creature",
+        "movementType": "Land"
+	"uniques": [
+	        "Never appears as a Barbarian unit"]
+},
     {
         "name": "Backyard Nuke",
         "movementType": "Air",
