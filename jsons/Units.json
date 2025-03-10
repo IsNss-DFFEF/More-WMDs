@@ -146,12 +146,12 @@
 	//Organic
 	{
 		"name": "Flying Laser Pig",
-		"unitType": "Satellite",
+		"unitType": "Creature",
 		"movement": 4,
 		"strength": 80,
 		"rangedStrength": 100,
 		"range": 2,
-		"cost": 600,
+		"cost": 800,
 		"requiredTech": "Lasers",
 		"requiredResource": "Uranium",
 		"uniques": ["Destroys tile improvements when attacking"],
@@ -159,9 +159,9 @@
 	},
 	{
 		"name": "Giant Enemy Spider",
-		"unitType": "Gunpowder",
+		"unitType": "Creature",
 		"movement": 6,
-		"strength": 60,
+		"strength": 100,
 		"cost": 800,
 		"requiredTech": "Stealth",
 		"requiredResource": "Oil",
