@@ -109,8 +109,17 @@
 		"cost": 1200,
 		"requiredTech": "Satellites"
 		"uniques": ["Destroys tile improvements when attacking",
-		"Consumes [2] [Aluminum]",],
+		"Consumes [2] [Aluminum]"],
 		"attackSound": "fire"
+	},
+		{
+		"name": "Satellite Carrier",
+		"unitType": "Satellite",
+		"movement": 8,
+		"strength": 40,
+		"cost": 575,
+		"requiredTech": "Satellites",
+		"uniques": ["Cannot attack", "Can carry [2] [Aircraft] units", "Can carry [3] [Missile] units"]
 	},
 	    {
         "name": "Massive Ordnance Air Blast",
