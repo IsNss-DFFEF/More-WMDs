@@ -104,7 +104,7 @@
 		"unitType": "Satellite",
 		"movement": 8,
 		"strength": 80,
-		"rangedStrength": 600,
+		"rangedStrength": 160,
 		"range": 8,
 		"cost": 1200,
 		"requiredTech": "Satellites"
@@ -158,7 +158,7 @@
 		"unitType": "Creature",
 		"movement": 4,
 		"strength": 80,
-		"rangedStrength": 100,
+		"rangedStrength": 80,
 		"range": 2,
 		"cost": 800,
 		"requiredTech": "Lasers",
