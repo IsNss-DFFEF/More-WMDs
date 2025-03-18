@@ -50,5 +50,16 @@
 			"Only available <if [Project Hyphae] is constructed>",
 			"Triggers a global alert upon completion"],
 		"quote": "'Rotting, bloated corpses dot the streets. I will soon join them.' - Unknown"
+	},
+		{
+		"name": "Biofuel Refinery",
+		"requiredBuilding": "Stable",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Pharmaceuticals",
+		"uniques": ["[+1 Production] from [Cattle] tiles [in this city]",
+			"[+1 Production] from [Horses] tiles [in this city]",
+			"[+1 Production] from [Sheep] tiles [in this city]",
+		"Provides [1] [Biofuel] <in [Pasture] tiles>"]
 	}
 ]
