@@ -148,18 +148,18 @@
 		"cost": 800,
 		"requiredTech": "Lasers",
 		"requiredResource": "Uranium",
-		"uniques": ["Destroys tile improvements when attacking"],
+		"uniques": ["Destroys tile improvements when attacking","Consumes [1] [Biofuel]"],
 		"attackSound": "fire"
 	},
 	{
 		"name": "Giant Enemy Spider",
 		"unitType": "Creature",
 		"movement": 6,
-		"strength": 100,
+		"strength": 120,
 		"cost": 800,
 		"requiredTech": "Stealth",
 		"requiredResource": "Oil",
-		"uniques": ["Destroys tile improvements when attacking"],
+		"uniques": ["Destroys tile improvements when attacking","Consumes [2] [Biofuel]"],
 		"attackSound": "fire"
 	},
 ]
