@@ -61,21 +61,6 @@
 		"Only available <if [Manhattan Project] is constructed>"],
         "attackSound": "nuke"
     }, 
-{	"name": "Intercontinental Ballistic Missile",
-        "unitType": "Missile",
-        "movement": 1,
-        "strength": 400,
-        "rangedStrength": 400,
-        "range": 36,
-        "cost": 1000,
-	"requiredTech": "Advanced Ballistics",
-        "uniques": [
-		"Nuclear weapon of Strength [3]",
-		"Blast radius [2]",
-		"Consumes [3] [Uranium]",
-		"Only available <if [Manhattan Project] is constructed>"],
-        "attackSound": "nuke"
-    }, 
 	//Inorganic
 {	"name": "The Swarm",
         "unitType": "Swarm",
