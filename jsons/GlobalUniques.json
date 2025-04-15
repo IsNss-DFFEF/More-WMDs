@@ -8,7 +8,7 @@
         "[-25]% [Food] <in cities with at least [15] [Population]> <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
         "[-25]% [Food] <in cities with at least [10] [Population]> <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
         "[-25]% [Food] <in cities with at least [5] [Population]> <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
-        "[-25]% [Food] <in cities with at least [0] [Population]> <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
+        "[-25]% [Food] <in cities with at least [1] [Population]> <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
                 
         "[-50]% [Production] <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
         "[-50]% [Happiness] <in cities without a [Project Hyphae]> <for [All] Civilizations> <if [Activate Project Hyphae] is constructed by anybody>",
