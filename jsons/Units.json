@@ -108,7 +108,7 @@
 	},    
 	{
         "name": "Rods From God Missile Defense System",
-        "unitType": "Sattelite",
+        "unitType": "Satellite",
         "movement": 1,
         "strength": 80,
         "rangedStrength": 600,
