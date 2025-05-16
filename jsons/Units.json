@@ -105,17 +105,17 @@
 		"cost": 575,
 		"requiredTech": "Satellites",
 		"uniques": ["Cannot attack", "Can carry [2] [Aircraft] units", "Can carry [3] [Missile] units"]
-	},
-	    {
-        "name": "Massive Ordnance Air Blast",
-        "unitType": "Missile",
+	},    
+	{
+        "name": "Rods From God Missile Defense System",
+        "unitType": "Sattelite",
         "movement": 1,
-        "strength": 600,
+        "strength": 80,
         "rangedStrength": 600,
         "range": 12,
-        "cost": 800,
+        "cost": 1200,
         "requiredTech": "Satellites",
-        "uniques": ["Consumes [2] [Aluminum]"],
+        "uniques": ["Consumes [3] [Aluminum]"],
         "attackSound": "nuke"
     }, 
   	{
