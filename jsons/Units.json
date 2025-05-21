@@ -109,13 +109,13 @@
 	{
         "name": "Rods From God Missile Defense System",
         "unitType": "Satellite",
-        "movement": 1,
+        "movement": 8,
         "strength": 80,
-        "rangedStrength": 600,
+        "rangedStrength": 300,
         "range": 12,
         "cost": 1200,
         "requiredTech": "Satellites",
-        "uniques": ["Consumes [3] [Aluminum]"],
+        "uniques": ["Consumes [3] [Aluminum]", "[1] additional attacks per turn"],
         "attackSound": "nuke"
     }, 
   	{
@@ -137,6 +137,21 @@
 			],
 		"attackSound": "tankshot"
 	  },
+		{
+		"name": "Boeing B-29 Superfortress",
+		"unitType": "Bomber",
+		"movement": 1,
+		"strength": 120,
+		"rangedStrength": 120,
+		"range": 18,
+		"cost": 900,
+		"requiredTech": "Rocketry",
+		"uniques": ["Damage taken from interception reduced by [100]%",
+			"Cannot be carried by [Carrier] units",
+			"[+4] Sight", "Can see over obstacles",
+			"Consumes [2] [Oil]", "Consumes [1] [Iron]","Consumes [1] [Aluminum]",],
+		"attackSound": "nuke"
+	},
 	//Organic
 	{
 		"name": "Flying Laser Pig",
