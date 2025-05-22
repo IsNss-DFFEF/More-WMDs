@@ -120,7 +120,7 @@
     }, 
   	{
 		"name": "Landkreuzer P. 1000 Ratte",
-		"unitType": "Landkreuzer",
+		"unitType": "Superheavy Tank",
 		"movement": 3,
 		"strength": 200,
 		"rangedStrength": 100,
@@ -134,6 +134,34 @@
 			"Ranged attacks may be performed over obstacles",
 			"[+8] Air Interception Range","[2] extra interceptions may be made per turn",
 			"[-60]% Damage when intercepting"
+			],
+		"attackSound": "tankshot"
+	  },
+		{
+		"name": "Boeing B-29 Superfortress",
+		"unitType": "Bomber",
+		"movement": 1,
+		"strength": 120,
+		"rangedStrength": 120,
+		"range": 18,
+		"cost": 900,
+		"requiredTech": "Rocketry",
+		"uniques": ["Damage taken from interception reduced by [100]%",
+			"Cannot be carried by [Carrier] units",
+			"[+4] Sight", "Can see over obstacles",
+			"Consumes [2] [Oil]", "Consumes [1] [Iron]","Consumes [1] [Aluminum]",],
+		"attackSound": "nuke"
+	},
+	  	{
+		"name": "T28 Superheavy Tank",
+		"unitType": "Superheavy Tank",
+		"movement": 2,
+		"strength": 200,
+		"cost": 1150,
+		"requiredTech": "Combined Arms",
+		"uniques": [
+			"Cannot be purchased",
+			"Consumes [2] [Oil]", "Consumes [2] [Iron]","[+50%] Strength <when attacking>
 			],
 		"attackSound": "tankshot"
 	  },
