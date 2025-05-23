@@ -161,7 +161,7 @@
 		"requiredTech": "Combined Arms",
 		"uniques": [
 			"Cannot be purchased",
-			"Consumes [2] [Oil]", "Consumes [2] [Iron]","[+50%] Strength <when attacking>
+			"Consumes [2] [Oil]", "Consumes [2] [Iron]","[+50%] Strength <when attacking>"
 			],
 		"attackSound": "tankshot"
 	  },
