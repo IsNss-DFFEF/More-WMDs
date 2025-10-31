@@ -143,6 +143,7 @@
 		"cost": 1200,
 		"requiredTech": "Robotics",
 		"uniques": [
+			"Limited to [1] per Civilization", "Only available <in cities with a [Landkreuzer P. 1000 Ratte]>",
 			"Can move after attacking", "Cannot be purchased",
 			"Consumes [4] [Oil]", "Consumes [2] [Aluminum]", "Consumes [2] [Iron]",
 			"Ignores zone of control", "[2] additional attacks per turn",
