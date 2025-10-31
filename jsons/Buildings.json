@@ -59,6 +59,6 @@
 		"uniques": ["[+1 Production] from [Cattle] tiles [in this city]",
 			"[+1 Production] from [Horses] tiles [in this city]",
 			"[+1 Production] from [Sheep] tiles [in this city]",
-		"Provides [3] [Biofuel]"]
+		"Provides [1] [Biofuel] <in [Pasture] tiles>"]
 	}
 ]
