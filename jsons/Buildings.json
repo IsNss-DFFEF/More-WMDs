@@ -40,13 +40,7 @@
 			
 		"Triggers a global alert upon build start","Triggers a global alert upon completion"],
 	},
-			{
-		"name": "Landkreuzer P. 1000 Ratte",
-		"isWonder": true
-		"requiredTech": "Robotics",
-		"uniques": ["Free [Landkreuzer P. 1000 Ratte] appears"],
-		"quote": "'In war, the greatest force is useless if it cannot be brought to bear.' - Carl von Clausewitz"
-	},
+
 		{
 		"name": "MK Ultra",
 		"science": 6,
