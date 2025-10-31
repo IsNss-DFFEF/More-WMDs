@@ -154,7 +154,7 @@
 	  },
   	{
 		"name": "London Gun",
-		"unitType": "Artillery",
+		"unitType": "Siege",
 		"movement": 1,
 		"strength": 80,
 		"rangedStrength": 200,
