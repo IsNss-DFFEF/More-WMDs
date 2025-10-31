@@ -122,15 +122,15 @@
 		"uniques": ["Cannot attack", "Can carry [2] [Aircraft] units", "Can carry [3] [Missile] units"]
 	},    
 	{
-        "name": "Rods From God Missile Defense System",
-        "unitType": "Satellite",
+        "name": "Rods From God",
+        "unitType": "Missile",
         "movement": 8,
         "strength": 80,
         "rangedStrength": 300,
         "range": 12,
         "cost": 1200,
         "requiredTech": "Satellites",
-        "uniques": ["Consumes [3] [Aluminum]", "[1] additional attacks per turn"],
+        "uniques": ["Consumes [3] [Aluminum]", "[+50%] strength against [city]"],
         "attackSound": "nuke"
     }, 
   	{
@@ -139,7 +139,7 @@
 		"movement": 3,
 		"strength": 200,
 		"rangedStrength": 100,
-		"range": 3,
+		"range": 2,
 		"cost": 1200,
 		"requiredTech": "Robotics",
 		"uniques": [
@@ -148,35 +148,22 @@
 			"Ignores zone of control", "[2] additional attacks per turn",
 			"Ranged attacks may be performed over obstacles",
 			"[+8] Air Interception Range","[2] extra interceptions may be made per turn",
-			"[-60]% Damage when intercepting"
 			],
 		"attackSound": "tankshot"
 	  },
-		{
-		"name": "Boeing B-29 Superfortress",
-		"unitType": "Bomber",
+  	{
+		"name": "London Gun",
+		"unitType": "Artillery",
 		"movement": 1,
-		"strength": 120,
-		"rangedStrength": 120,
-		"range": 18,
-		"cost": 900,
-		"requiredTech": "Rocketry",
-		"uniques": ["Damage taken from interception reduced by [100]%",
-			"Cannot be carried by [Carrier] units",
-			"[+4] Sight", "Can see over obstacles",
-			"Consumes [2] [Oil]", "Consumes [1] [Iron]","Consumes [1] [Aluminum]",],
-		"attackSound": "nuke"
-	},
-	  	{
-		"name": "T28 Superheavy Tank",
-		"unitType": "Superheavy Tank",
-		"movement": 2,
-		"strength": 200,
-		"cost": 1150,
-		"requiredTech": "Combined Arms",
+		"strength": 80,
+		"rangedStrength": 200,
+		"range": 4,
+		"cost": 300,
+		"requiredTech": "Robotics",
 		"uniques": [
-			"Cannot be purchased",
-			"Consumes [2] [Oil]", "Consumes [2] [Iron]","[+50%] Strength <when attacking>"
+			"Can move after attacking", "Cannot be purchased",
+			"Consumes [2] [Aluminum]", "Consumes [2] [Iron]",
+			"Ranged attacks may be performed over obstacles", "Must set up to ranged attack"
 			],
 		"attackSound": "tankshot"
 	  },
@@ -219,5 +206,17 @@
 		"requiredResource": "Oil",
 		"uniques": ["Destroys tile improvements when attacking","Consumes [2] [Biofuel]"],
 		"attackSound": "fire"
+	},
+	{
+		"name": "Amongus Impostor",
+		"unitType": "Creature",
+		"movement": 2,
+		"strength": 60,
+		"cost": 800,
+		"requiredTech": "Satellites",
+		"uniques": ["Consumes [1] [Biofuel]", "[+100]% Strength <when attacking>",
+			"Can only attack [non-City] units", "Invisible to non-adjacent units",
+			"Can move after attacking", "Heals [100] damage if it kills a unit"],
+		"attackSound": "spearman"
 	},
 ]
