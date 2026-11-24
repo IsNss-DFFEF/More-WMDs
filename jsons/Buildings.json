@@ -2,7 +2,7 @@
 	{
 		"name": "Project Sundial",
 		"isWonder": true
-		"cost": 1800,
+		"cost": 2200,
 		"requiredTech": "Nuclear Fusion",
 		"uniques": [
 			"Cannot be hurried", "Unsellable", "Only available <in [Capital] cities>",
@@ -16,7 +16,7 @@
 	{
 		"name": "Project Fractal",
 		"isWonder": true
-		"cost": 1800,
+		"cost": 2200,
 		"requiredTech": "Nanotechnology",
 		"uniques": [
 			"Cannot be hurried", "Unsellable", "Only available <in [Capital] cities>",
@@ -30,7 +30,7 @@
 	{
 		"name": "Project Hyphae",
 		"isWonder": true
-		"cost": 1800,
+		"cost": 2200,
 		"requiredTech": "Globalization",
 		"uniques": [
 			"Cannot be hurried", "Unsellable", "Only available <in [Capital] cities>",
@@ -44,6 +44,7 @@
 		"name": "Landkreuzer P. 1000 Ratte",
 		"isWonder": true
 		"requiredTech": "Robotics",
+		"cost": "2600",
 		"uniques": ["Free [Landkreuzer P. 1000 Ratte] appears"],
 		"quote": "'In war, the greatest force is useless if it cannot be brought to bear.' - Carl von Clausewitz"
 	},
