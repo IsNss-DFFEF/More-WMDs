@@ -140,7 +140,7 @@
 		"strength": 200,
 		"rangedStrength": 100,
 		"range": 2,
-		"cost": 1200,
+		"cost": 2200,
 		"requiredTech": "Robotics",
 		"uniques": [
 			"Limited to [1] per Civilization", "Only available <in cities with a [Landkreuzer P. 1000 Ratte]>",
@@ -175,7 +175,7 @@
 		"strength": 120,
 		"rangedStrength": 120,
 		"range": 18,
-		"cost": 900,
+		"cost": 2200,
 		"requiredTech": "Rocketry",
 		"uniques": ["Damage taken from interception reduced by [100]%",
 			"Cannot be carried by [Carrier] units",
