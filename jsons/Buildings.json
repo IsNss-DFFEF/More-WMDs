@@ -2,7 +2,7 @@
 	{
 		"name": "Project Sundial",
 		"isWonder": true
-		"cost": 1200,
+		"cost": 1800,
 		"requiredTech": "Nuclear Fusion",
 		"uniques": [
 			"Cannot be hurried", "Unsellable", "Only available <in [Capital] cities>",
@@ -16,7 +16,7 @@
 	{
 		"name": "Project Fractal",
 		"isWonder": true
-		"cost": 1200,
+		"cost": 1800,
 		"requiredTech": "Nanotechnology",
 		"uniques": [
 			"Cannot be hurried", "Unsellable", "Only available <in [Capital] cities>",
@@ -30,13 +30,13 @@
 	{
 		"name": "Project Hyphae",
 		"isWonder": true
-		"cost": 1200,
+		"cost": 1800,
 		"requiredTech": "Globalization",
 		"uniques": [
 			"Cannot be hurried", "Unsellable", "Only available <in [Capital] cities>",
 			"Cannot be purchased", "Limited to [1] per Civilization",
 
-			"Comment [Start an unbeatable and debilitating pandemic.]",
+			"Comment [Start a debilitating pandemic.]",
 			
 		"Triggers a global alert upon build start","Triggers a global alert upon completion"],
 	},			
@@ -54,7 +54,7 @@
 		"percentStatBonus": {"culture": 10, "happiness": 10, "production": 10, "science": 10},
 		"isWonder": true
 		"requiredTech": "Computers",
-		"uniques": ["[-60]% enemy spy effectiveness [in all cities]","[+60]% spy effectiveness [in all cities]"],
+		"uniques": ["[-60]% enemy spy effectiveness [in all cities]","[+30]% spy effectiveness [in all cities]"],
 		"quote": "'Those who can make you believe absurdities can make you commit atrocities' - Voltaire"
 	},
 		{
@@ -66,6 +66,6 @@
 		"uniques": ["[+1 Production] from [Cattle] tiles [in this city]",
 			"[+1 Production] from [Horses] tiles [in this city]",
 			"[+1 Production] from [Sheep] tiles [in this city]",
-		"Provides [1] [Biofuel] <in [Pasture] tiles>"]
+		"Provides [4] [Biofuel]"]
 	}
 ]
