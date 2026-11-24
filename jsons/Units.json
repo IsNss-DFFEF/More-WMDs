@@ -187,7 +187,7 @@
 	{
 		"name": "Flying Laser Pig",
 		"unitType": "Creature",
-		"movement": 4,
+		"movement": 3,
 		"strength": 80,
 		"rangedStrength": 80,
 		"range": 2,
